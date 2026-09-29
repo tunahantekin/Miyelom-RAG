@@ -1,0 +1,36 @@
+# Sanal ortam ve onbellek
+_env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+_web/frontend/dist/
+_web/frontend/.vite/
+
+# Gizli anahtarlar (sablon haric)
+.env
+*.env
+!.env.ornek
+
+# Kaynak belgeler ve turetilmis veri depoya girmez.
+# Kaynak listesi: 00_INDEX.md ve DATA_CATALOG.csv
+layer1_clinical/
+layer2_regulatory/
+layer3_reimbursement/
+_work/parsed/
+_work/enriched/
+_work/parse_full/
+_work/parse_bakeoff/
+_work/chunks/
+_work/embeddings/
+_work/qdrant/
+_work/onbellek.json
+*.npy
+
+Thumbs.db
+desktop.ini
+.DS_Store

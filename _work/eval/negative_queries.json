@@ -1,0 +1,76 @@
+[
+ {"id": "N01",
+  "soru": "Akut apandisit ameliyatı sonrası antibiyotik profilaksisi nasıl verilir?",
+  "alan": "genel cerrahi",
+  "gerekce": "Arşiv yalnızca multipl miyelom kapsıyor; cerrahi profilaksi yok"},
+
+ {"id": "N02",
+  "soru": "Tip 2 diyabette metformin başlangıç dozu nedir?",
+  "alan": "endokrinoloji",
+  "gerekce": "Antidiyabetik ilaçlar arşivde yok"},
+
+ {"id": "N03",
+  "soru": "Akut miyokard enfarktüsünde trombolitik tedavi endikasyonları nelerdir?",
+  "alan": "kardiyoloji",
+  "gerekce": "Koroner sendrom yönetimi arşivde yok"},
+
+ {"id": "N04",
+  "soru": "Gebelikte demir desteğine ne zaman başlanmalı?",
+  "alan": "kadın doğum",
+  "gerekce": "Gebelik takibi arşivde yok; arşivdeki gebelik içeriği yalnızca ilaç kontrendikasyonu"},
+
+ {"id": "N05",
+  "soru": "Astım atağında salbutamol nasıl uygulanır?",
+  "alan": "göğüs hastalıkları",
+  "gerekce": "Bronkodilatörler arşivde yok"},
+
+ {"id": "N06",
+  "soru": "ACE inhibitörlerinin kontrendikasyonları nelerdir?",
+  "alan": "kardiyoloji",
+  "gerekce": "Antihipertansifler arşivde yok"},
+
+ {"id": "N07",
+  "soru": "Akut pankreatitte şiddet nasıl derecelendirilir?",
+  "alan": "gastroenteroloji",
+  "gerekce": "Pankreatit arşivde yok"},
+
+ {"id": "N08",
+  "soru": "Çocukta febril konvülziyon nasıl yönetilir?",
+  "alan": "pediatri",
+  "gerekce": "Arşiv erişkin miyelom odaklı; pediatrik nöroloji yok"},
+
+ {"id": "N09",
+  "soru": "Migren profilaksisinde propranolol dozu nedir?",
+  "alan": "nöroloji",
+  "gerekce": "Migren tedavisi arşivde yok"},
+
+ {"id": "N10",
+  "soru": "Helicobacter pylori eradikasyonunda hangi rejim kullanılır?",
+  "alan": "gastroenteroloji",
+  "gerekce": "Antibiyotik eradikasyon rejimleri arşivde yok"},
+
+ {"id": "N11",
+  "soru": "Hipotiroidide levotiroksin dozu nasıl ayarlanır?",
+  "alan": "endokrinoloji",
+  "gerekce": "Tiroid hastalıkları arşivde yok"},
+
+ {"id": "N12",
+  "soru": "Akut iskemik inmede trombektomi için zaman penceresi nedir?",
+  "alan": "nöroloji",
+  "gerekce": "İnme yönetimi arşivde yok"},
+
+ {"id": "N13",
+  "soru": "Septik şokta sıvı resüsitasyonu nasıl yapılır?",
+  "alan": "yoğun bakım",
+  "gerekce": "Sepsis yönetimi arşivde yok; arşivdeki enfeksiyon içeriği yalnızca profilaksi"},
+
+ {"id": "N14",
+  "soru": "KOAH alevlenmesinde sistemik steroid kaç gün verilmeli?",
+  "alan": "göğüs hastalıkları",
+  "gerekce": "KOAH arşivde yok; arşivdeki steroid içeriği miyelom rejimlerinin parçası"},
+
+ {"id": "N15",
+  "soru": "Romatoid artritte metotreksat başlangıç dozu nedir?",
+  "alan": "romatoloji",
+  "gerekce": "Metotreksat ve romatoid artrit arşivde yok"}
+]

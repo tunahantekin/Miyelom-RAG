@@ -1,0 +1,502 @@
+{
+ "chunk": 14531,
+ "kapsam_dusuk": [
+  [
+   "PUBMED_META_dara_transplant_ineligible_2025",
+   0.9787,
+   1,
+   47
+  ],
+  [
+   "PUBMED_META_quadruplet_TE_NDMM_2025",
+   0.9892,
+   1,
+   93
+  ],
+  [
+   "EMA_lynozyfic_PI",
+   0.9908,
+   6,
+   651
+  ],
+  [
+   "FDA_ABECMA_PI",
+   0.9919,
+   5,
+   618
+  ],
+  [
+   "FDA_CARVYKTI_PI",
+   0.9848,
+   10,
+   658
+  ],
+  [
+   "FDA_DARZALEX_FASPRO_PI",
+   0.9835,
+   19,
+   1152
+  ],
+  [
+   "FDA_DARZALEX_PI",
+   0.9816,
+   17,
+   923
+  ],
+  [
+   "FDA_ELREXFIO_PI",
+   0.9672,
+   16,
+   488
+  ],
+  [
+   "FDA_EMPLICITI_PI",
+   0.9906,
+   4,
+   425
+  ],
+  [
+   "FDA_LYNOZYFIC_PI",
+   0.9729,
+   13,
+   479
+  ],
+  [
+   "FDA_POMALYST_PI",
+   0.9768,
+   18,
+   776
+  ],
+  [
+   "FDA_REVLIMID_PI",
+   0.9777,
+   32,
+   1432
+  ],
+  [
+   "FDA_SARCLISA_ESCENA_PI",
+   0.9845,
+   10,
+   646
+  ],
+  [
+   "FDA_SARCLISA_PI",
+   0.975,
+   13,
+   521
+  ],
+  [
+   "FDA_TALVEY_PI",
+   0.9823,
+   10,
+   565
+  ],
+  [
+   "FDA_TECVAYLI_PI",
+   0.9824,
+   12,
+   680
+  ],
+  [
+   "FDA_THALOMID_PI",
+   0.979,
+   16,
+   763
+  ],
+  [
+   "FDA_XPOVIO_PI",
+   0.9764,
+   17,
+   721
+  ],
+  [
+   "appendix_fda",
+   0.9857,
+   1,
+   70
+  ],
+  [
+   "KUB",
+   0.992,
+   2,
+   249
+  ],
+  [
+   "KUB",
+   0.9928,
+   2,
+   279
+  ],
+  [
+   "ELREXFIO_44_MG_1_1_ML_ENJEKSIYONLUK_ZELTI_KUB",
+   0.9934,
+   2,
+   302
+  ],
+  [
+   "ELREXFIO_76_MG_1_9_ML_ENJEKSIYONLUK_ZELTI_KUB",
+   0.9934,
+   2,
+   302
+  ],
+  [
+   "NINLARO_3_MG_KAPS_L_KUB",
+   0.9925,
+   2,
+   266
+  ],
+  [
+   "NINLARO_4_MG_KAPS_L_KUB",
+   0.9923,
+   2,
+   259
+  ],
+  [
+   "NINLARO_2_3_MG_KAPS_L_KUB",
+   0.9923,
+   2,
+   260
+  ],
+  [
+   "SARCLISA_100_MG_5_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB",
+   0.9944,
+   2,
+   357
+  ],
+  [
+   "SARCLISA_500_MG_25_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB",
+   0.9947,
+   2,
+   374
+  ],
+  [
+   "RELIV_10_MG_SERT_KAPS_L_KUB",
+   0.9933,
+   6,
+   892
+  ],
+  [
+   "RELIV_15_MG_SERT_KAPS_L_KUB",
+   0.9933,
+   6,
+   891
+  ],
+  [
+   "RELIV_25_MG_SERT_KAPS_L_KUB",
+   0.9933,
+   6,
+   892
+  ],
+  [
+   "RELIV_5_MG_SERT_KAPS_L_KUB",
+   0.9933,
+   6,
+   892
+  ],
+  [
+   "ERIOLAN_50_MG_ENJEKSIYONLUK_NF_ZYONLUK_ZELTI_IN_LIYOFILIZE_T_KUB",
+   0.9946,
+   2,
+   370
+  ],
+  [
+   "ALKERAN_2_MG_FILM_TABLET_KUB",
+   0.9897,
+   3,
+   292
+  ],
+  [
+   "_MNOV_D_4_MG_SERT_KAPS_L_KUB",
+   0.9942,
+   3,
+   517
+  ],
+  [
+   "NEXPOVIO_20_MG_FILM_KAPLI_TABLET_KUB",
+   0.9915,
+   3,
+   354
+  ],
+  [
+   "THALIDOMIDE_BMS_50_MG_SERT_KAPS_L_KUB",
+   0.9921,
+   3,
+   380
+  ],
+  [
+   "ACLASTA_5_MG_100_ML_IV_NF_ZYON_ZELTISI_EREN_FLAKON_KUB",
+   0.9922,
+   2,
+   256
+  ],
+  [
+   "KUB",
+   0.9915,
+   2,
+   235
+  ],
+  [
+   "KALIKSIR_4MG_5ML_I_V_NF_ZYONLUK_KONSANTRE_ZELTI_KUB",
+   0.9913,
+   2,
+   229
+  ],
+  [
+   "LUSIMA_5MG_100ML_IV_NF_ZYON_ZELTISI_EREN_FLAKON_KUB",
+   0.988,
+   2,
+   167
+  ],
+  [
+   "ZOLCURE_5_MG_100_ML_V_INF_ZYONLUK_ZELTI_KUB",
+   0.9917,
+   2,
+   242
+  ],
+  [
+   "ZOLON_K_4_MG_5_ML_I_V_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB",
+   0.9912,
+   2,
+   227
+  ],
+  [
+   "OSTEZOLEN_4MG_5ML_IV_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB",
+   0.9917,
+   2,
+   240
+  ],
+  [
+   "KUB",
+   0.9914,
+   2,
+   233
+  ],
+  [
+   "ACLASTA_5MG_100_ML_NF_ZYON_ZELTISI_EREN_FLAKON_KUB",
+   0.9911,
+   2,
+   224
+  ],
+  [
+   "BONEDRO_4MG_5ML_V_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN_FLAKO_KUB",
+   0.9916,
+   2,
+   238
+  ],
+  [
+   "CEM_X_5G_100ML_IV_NF_ZYONLUK_ZELTI_KUB",
+   0.9915,
+   2,
+   235
+  ],
+  [
+   "RON_DRO_5_MG_100_ML_I_V_INF_ZYON_ZELTISI_I_EREN_FLAKON_KUB",
+   0.9919,
+   2,
+   248
+  ],
+  [
+   "VERTEBZOL_5_MG_100_ML_I_V_NF_ZYONLUK_ZELTI_KUB",
+   0.9939,
+   3,
+   492
+  ],
+  [
+   "ZOLEGEN_4_MG_5_ML_I_V_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN_F_KUB",
+   0.9904,
+   2,
+   208
+  ],
+  [
+   "ZOLENAT_IV_4MG_5_ML_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN_FLA_KUB",
+   0.9915,
+   2,
+   236
+  ],
+  [
+   "ZOLTONAR_5_MG_100_ML_V_INF_ZYON_ZELTISI_I_EREN_FLAKON_KUB",
+   0.992,
+   2,
+   250
+  ],
+  [
+   "ZOMEBON_4MG_5ML_INF_ZYON_I_IN_KONSANTRE_ZELTI_KUB",
+   0.9917,
+   2,
+   241
+  ],
+  [
+   "KUB",
+   0.9907,
+   2,
+   214
+  ],
+  [
+   "LAN_CZOL_5_MG_100_ML_IV_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB",
+   0.9918,
+   2,
+   245
+  ],
+  [
+   "KUB",
+   0.9918,
+   2,
+   244
+  ],
+  [
+   "RON_X_4_MG_5_ML_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB",
+   0.9916,
+   2,
+   237
+  ],
+  [
+   "KUB",
+   0.9921,
+   2,
+   252
+  ],
+  [
+   "ZOLKA_5MG_100ML_I_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB",
+   0.992,
+   2,
+   250
+  ],
+  [
+   "ZOLOPOROZ_5MG_100ML_V_NF_ZYON_N_ZELT_EREN_FLAKON_KUB",
+   0.9886,
+   3,
+   264
+  ],
+  [
+   "XENDRO_5_MG_100_ML_IV_NF_ZYON_N_ZELT_EREN_FLAKON_KUB",
+   0.9884,
+   3,
+   258
+  ],
+  [
+   "KUB",
+   0.992,
+   2,
+   250
+  ],
+  [
+   "ZOLTASTA_4MG_5ML_I_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB",
+   0.9913,
+   2,
+   230
+  ],
+  [
+   "Metarzu_4_mg_5_ml_V_nf_zyon_in_Konsantre_zelti_eren_Flakon_KUB",
+   0.9916,
+   2,
+   238
+  ],
+  [
+   "Xolarex_5_mg_100_ml_IV_nf_zyonluk_zelti_KUB",
+   0.9916,
+   2,
+   237
+  ],
+  [
+   "SUT",
+   0.9949,
+   33,
+   6420
+  ],
+  [
+   "nccn_myeloma_manual",
+   0.9775,
+   20,
+   887
+  ]
+ ],
+ "sahipsiz_parent": 0,
+ "tablo_bolunmus": 23,
+ "yarim_cumle": 5862,
+ "bulgular": [
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "7a08a99ac29134fe",
+   "isaret": "i"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "7a08a99ac29134fe",
+   "isaret": "a"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "7a08a99ac29134fe",
+   "isaret": "h"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "d01055b44d815fa9",
+   "isaret": "i"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "1fbfbcd3a1615be6",
+   "isaret": "b"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "ccb9fca4fefcc8ef",
+   "isaret": "a"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "04876eba11e94123",
+   "isaret": "a"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "efc16499ee413518",
+   "isaret": "a"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "60ec152879c92e0e",
+   "isaret": "b"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "d9b4e6ada1ab30bc",
+   "isaret": "b"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "cb67eceb5431f9c9",
+   "isaret": "b"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "fc923d1e92e5e770",
+   "isaret": "b"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "6aabb1f3d8e9ec75",
+   "isaret": "b"
+  },
+  {
+   "tur": "dipnot_kopuk",
+   "belge": "nccn_myeloma_manual",
+   "chunk": "1b30891a4ad1a9f3",
+   "isaret": "a"
+  }
+ ]
+}

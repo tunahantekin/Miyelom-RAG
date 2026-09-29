@@ -1,0 +1,17 @@
+# Metin dosyalarinda satir sonlarini normallestir
+* text=auto
+
+# Ikili dosyalar: satir sonu donusumu YAPILMASIN (bozulmayi onler)
+*.pdf   binary
+*.npy   binary
+*.sqlite binary
+*.db    binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.zip   binary
+*.docx  binary
+*.xlsx  binary
+*.doc   binary
+*.pptx  binary

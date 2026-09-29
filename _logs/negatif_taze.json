@@ -1,0 +1,203 @@
+{
+ "esikler": {
+  "arama": 0.5,
+  "alan": "varlik|hast75"
+ },
+ "sorular": "negative_queries_v2.json",
+ "ozet": {
+  "toplam": 15,
+  "arama_durdurdu": 0,
+  "alan_durdurdu": 11,
+  "modele_ulasan": 4
+ },
+ "kayitlar": [
+  {
+   "id": "N16",
+   "soru": "Akut miyeloid lösemide 7+3 indüksiyon rejimi nasıl uygulanır?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.57,
+   "alan_varlik": false,
+   "alan_hast": 0.25,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N17",
+   "soru": "İmmün trombositopenide birinci basamak tedavi nedir?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.608,
+   "alan_varlik": false,
+   "alan_hast": 0.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N18",
+   "soru": "Kronik miyeloid lösemide imatinib başlangıç dozu kaç mg?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.646,
+   "alan_varlik": false,
+   "alan_hast": 0.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N19",
+   "soru": "Erken evre Hodgkin lenfomada kaç kür ABVD verilir?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.628,
+   "alan_varlik": false,
+   "alan_hast": 0.25,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N20",
+   "soru": "Derin ven trombozunda warfarin ile hedef INR aralığı nedir?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.591,
+   "alan_varlik": false,
+   "alan_hast": 0.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N21",
+   "soru": "Demir eksikliği anemisinde oral demir tedavisi kaç ay sürdürülmeli?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.606,
+   "alan_varlik": false,
+   "alan_hast": 0.75,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "gecti",
+   "modele_ulasti": true
+  },
+  {
+   "id": "N22",
+   "soru": "Orak hücreli anemide hidroksiüre hangi hastalara başlanır?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.577,
+   "alan_varlik": false,
+   "alan_hast": 0.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N23",
+   "soru": "Hemofili A'da faktör VIII replasman dozu nasıl hesaplanır?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.574,
+   "alan_varlik": false,
+   "alan_hast": 0.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N24",
+   "soru": "Ağır aplastik anemide antitimosit globulin tedavisi nasıl verilir?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.589,
+   "alan_varlik": false,
+   "alan_hast": 0.5,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N25",
+   "soru": "Del(5q) miyelodisplastik sendromda lenalidomid dozu nedir?",
+   "zorluk": "tuzak",
+   "arama_skoru": 0.724,
+   "alan_varlik": true,
+   "alan_hast": 0.0,
+   "taninan": {
+    "ilac": [
+     "Lenalidomide"
+    ]
+   },
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "gecti",
+   "modele_ulasti": true
+  },
+  {
+   "id": "N26",
+   "soru": "Mantle hücreli lenfomada bortezomib hangi rejimle kombine edilir?",
+   "zorluk": "tuzak",
+   "arama_skoru": 0.656,
+   "alan_varlik": true,
+   "alan_hast": 0.5,
+   "taninan": {
+    "ilac": [
+     "Bortezomib"
+    ]
+   },
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "gecti",
+   "modele_ulasti": true
+  },
+  {
+   "id": "N27",
+   "soru": "Kronik lenfositik lösemide ibrutinib ne zaman kesilmeli?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.591,
+   "alan_varlik": false,
+   "alan_hast": 0.25,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N28",
+   "soru": "Otoimmün hemolitik anemide rituksimab hangi basamakta kullanılır?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.605,
+   "alan_varlik": false,
+   "alan_hast": 0.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N29",
+   "soru": "Polisitemia verada flebotomi için hedef hematokrit değeri kaçtır?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.584,
+   "alan_varlik": false,
+   "alan_hast": 0.25,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "durdurdu",
+   "modele_ulasti": false
+  },
+  {
+   "id": "N30",
+   "soru": "Talasemi majorda demir şelasyonuna hangi ferritin düzeyinde başlanır?",
+   "zorluk": "yakin",
+   "arama_skoru": 0.533,
+   "alan_varlik": false,
+   "alan_hast": 1.0,
+   "taninan": {},
+   "arama_kapisi": "gecti",
+   "alan_kapisi": "gecti",
+   "modele_ulasti": true
+  }
+ ]
+}

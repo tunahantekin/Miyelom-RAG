@@ -1,0 +1,633 @@
+[
+ {
+  "id": "Q01",
+  "soru": "Yeni tanı multipl miyelom hastasında başlangıç tanı incelemesinde hangi testler istenmeli?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-1"},
+            {"icerik": ["(?i)bone marrow|kemik ili", "(?i)fish"]}],
+  "gerekce": "NCCN MYEL-1 iş akışı; aynı bilgi parse edilmiş NCCN PDF'inde ve dergi sürümünde de var",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q02",
+  "soru": "Multipl miyelomda FISH panelinde hangi sitogenetik anormallikler araştırılmalı?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-1"},
+            {"belge": "nccn_myeloma_manual", "bolum": "MYEL-B"},
+            {"icerik": ["(?i)fish", "(?i)t\\s*\\(?\\s*4\\s*[;:,]\\s*14|del\\s*\\(?\\s*17p|1q21"]}],
+  "gerekce": "FISH paneli ve risk sınıflaması; sitogenetik işaretlerin geçmesi şart",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q03",
+  "soru": "Nakil adayı olan yeni tanı hastada birincil tedavi olarak hangi rejimler öneriliyor?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-G"},
+            {"belge": "nccn_myeloma_manual", "bolum": "MYEL-3"},
+            {"icerik": ["(?i)bortezomib", "(?i)lenalidomid", "(?i)dexamethasone|deksametazon"]}],
+  "gerekce": "Birincil tedavi rejim listesi; üçlü/dörtlü rejim bileşenleri geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q04",
+  "soru": "Stringent complete response tanımı nedir, tam yanıttan farkı nedir?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-E"},
+            {"icerik": ["(?i)stringent complete response"]}],
+  "gerekce": "Yanıt kriterleri; terimin kendisi geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q05",
+  "soru": "Kemik hastalığı olan miyelom hastasında bisfosfonat mı denosumab mı tercih edilmeli?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-I"},
+            {"icerik": ["(?i)denosumab", "(?i)zoledronic|zoledronik|pamidronat"]}],
+  "gerekce": "Kemik hedefli tedavi seçimi; karşılaştırma için iki seçenek de geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q06",
+  "soru": "Miyelom hastasında venöz tromboemboli profilaksisi nasıl yapılır, risk sınıflaması nedir?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-K"},
+            {"icerik": ["(?i)tromboembol|thromboembol|\\bVTE\\b",
+                        "(?i)profilaks|prophylax|aspirin|heparin"]}],
+  "gerekce": "VTE yönetimi; profilaksi ajanı geçmeli, salt yan etki listesi sayılmaz",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q07",
+  "soru": "Böbrek yetmezliği olan miyelom hastasında tedavi nasıl yönetilir?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-L"},
+            {"icerik": ["(?i)böbrek|renal", "(?i)kreatinin|creatinine|klerens|clearance"]}],
+  "gerekce": "Böbrek yetmezliğinde yönetim; doz/klerens ölçütü geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q08",
+  "soru": "Miyelom hastasında enfeksiyon profilaksisi ve aşılama nasıl planlanır?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-J"},
+            {"icerik": ["(?i)profilaks|prophylax",
+                        "(?i)asiklovir|acyclovir|valasiklovir|valacyclovir|aşı|vaccin|IVIG"]}],
+  "gerekce": "Enfeksiyon profilaksisi; somut ajan veya aşı geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q09",
+  "soru": "Soliter plazmasitom tanısı nasıl konur ve nasıl tedavi edilir?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-6"},
+            {"belge": "nccn_myeloma_manual", "bolum": "MYEL-5"},
+            {"icerik": ["(?i)solitary plasmacytoma|soliter plazmasitom"]}],
+  "gerekce": "Soliter plazmasitom kolu",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q10",
+  "soru": "MGUS takibi hangi sıklıkla yapılmalı?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MGNS-1"},
+            {"icerik": ["(?i)\\bMGUS\\b|monoclonal gammopathy|monoklonal gammopati",
+                        "(?i)\\bay\\b|month|yıl|year"]}],
+  "gerekce": "MGUS izlemi; takip aralığı geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q11",
+  "soru": "Bortezomib subkutan uygulamada doz ve uygulama sıklığı nedir?",
+  "hedef": [{"belge": "BORTEZOM", "bolum": "4.2"},
+            {"icerik": ["(?i)bortezomib|velcade", "1[,.]3\\s*mg/m"]}],
+  "gerekce": "Etken madde bazlı: aynı dozaj tüm bortezomib markalarının 4.2'sinde",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q12",
+  "soru": "Bortezomib kaynaklı periferik nöropatide doz nasıl azaltılır?",
+  "hedef": [{"belge": "BORTEZOM", "bolum": "4.2"},
+            {"belge": "BORTEZOM", "bolum": "4.4"},
+            {"icerik": ["(?i)nöropat|neuropath", "(?i)doz|dose", "(?i)bortezomib"]}],
+  "gerekce": "Nöropati doz değişiklik tablosu",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q13",
+  "soru": "Lenalidomid böbrek fonksiyon bozukluğunda doz ayarlaması nasıl yapılır?",
+  "hedef": [{"belge": "LENALIDOMID", "bolum": "4.2"},
+            {"icerik": ["(?i)lenalidomid", "(?i)kreatinin|klerens|creatinine|clearance"]}],
+  "gerekce": "Etken madde bazlı: sekiz lenalidomid markasında aynı bilgi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q14",
+  "soru": "Lenalidomid gebelikte kullanılabilir mi, gebelik önleme programı nedir?",
+  "hedef": [{"belge": "LENALIDOMID", "bolum": "4.6"},
+            {"belge": "LENALIDOMID", "bolum": "4.3"},
+            {"icerik": ["(?i)lenalidomid", "(?i)gebe|pregnan",
+                        "(?i)önleme|prevention|teratojen"]}],
+  "gerekce": "Gebelik önleme programı",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q15",
+  "soru": "Daratumumab infüzyon ilişkili reaksiyonlarda premedikasyon nasıl verilir?",
+  "hedef": [{"belge": "DARATUMUMAB", "bolum": "4.2"},
+            {"belge": "DARATUMUMAB", "bolum": "4.4"},
+            {"icerik": ["(?i)daratumumab",
+                        "(?i)premedika|premedication|kortikosteroid|antihistamin"]}],
+  "gerekce": "İnfüzyon reaksiyonu premedikasyonu",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q16",
+  "soru": "Daratumumab kan grubu tayinini ve indirekt Coombs testini etkiler mi?",
+  "hedef": [{"belge": "DARATUMUMAB", "bolum": "4.4"},
+            {"belge": "DARATUMUMAB", "bolum": "4.5"},
+            {"icerik": ["(?i)daratumumab",
+                        "(?i)coombs|antiglobulin|kan grubu|blood bank|kan bankas"]}],
+  "gerekce": "Kan bankası girişimi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q17",
+  "soru": "Karfilzomib kardiyak toksisite açısından hangi uyarıları taşıyor?",
+  "hedef": [{"belge": "KARF", "bolum": "4.4"},
+            {"icerik": ["(?i)karfilzomib|carfilzomib",
+                        "(?i)kardiy|cardiac|kalp yetmezli|heart failure"]}],
+  "gerekce": "Kardiyak uyarılar",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q18",
+  "soru": "Teklistamab tedavisinde sitokin salınım sendromu için basamaklı doz şeması nedir?",
+  "hedef": [{"belge": "TECVAYLI", "bolum": "4.2"},
+            {"icerik": ["(?i)teklistamab|teclistamab",
+                        "(?i)sitokin salınım|cytokine release|\\bCRS\\b"]}],
+  "gerekce": "Basamaklı doz ve CRS",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q19",
+  "soru": "Multipl miyelomda ilaç geri ödemesi için hangi rapor ve koşullar aranıyor?",
+  "hedef": [{"belge": "SUT", "icerik": ["(?i)rapor", "(?i)miyelom"]},
+            {"icerik": ["(?i)uzman hekim raporu|sağlık kurulu raporu", "(?i)miyelom"]}],
+  "gerekce": "SUT geri ödeme koşulu; rapor şartı geçmeli",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q20",
+  "soru": "Otolog kök hücre nakli sonrası idame tedavisi olarak lenalidomid ne kadar süre verilir?",
+  "hedef": [{"belge": "nccn_myeloma_manual", "bolum": "MYEL-G"},
+            {"belge": "nccn_myeloma_manual", "bolum": "MYEL-4"},
+            {"icerik": ["(?i)idame|maintenance", "(?i)lenalidomid"]}],
+  "gerekce": "Nakil sonrası idame tedavisi",
+  "katman": "klinik"
+ },
+
+ {
+  "id": "Q21",
+  "soru": "Multipl miyelom tanısı için hangi ölçütler gerekli, CRAB bulguları nelerdir?",
+  "hedef": [{"icerik": ["(?i)CRAB|myeloma[- ]defining|hiperkalsemi|hypercalcemia",
+                        "(?i)60\\s*%|kemik ili|bone marrow|plasma cell"]}],
+  "gerekce": "Tanı ölçütleri; uç organ hasarı ya da biyobelirteç geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q22",
+  "soru": "Sessiz (smoldering) miyelom hastası ne sıklıkla izlenmeli, ne zaman tedavi başlanır?",
+  "hedef": [{"icerik": ["(?i)smoldering|sessiz miyelom",
+                        "(?i)\\bay\\b|month|izlem|follow|monitor"]}],
+  "gerekce": "Smoldering izlem aralığı ve tedaviye geçiş eşiği",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q23",
+  "soru": "Revize uluslararası evreleme sistemi hangi parametreleri kullanır?",
+  "hedef": [{"icerik": ["(?i)staging system|\\bISS\\b|evreleme",
+                        "(?i)beta.?2|albumin|\\bLDH\\b"]}],
+  "gerekce": "R-ISS bileşenleri; laboratuvar parametreleri geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q24",
+  "soru": "Yüksek riskli multipl miyelom hangi sitogenetik bulgularla tanımlanır?",
+  "hedef": [{"icerik": ["(?i)high[- ]risk|y[üu]ksek risk",
+                        "(?i)del\\s*\\(?\\s*17|t\\s*\\(?\\s*4\\s*[;:,]\\s*14|1q21|t\\s*\\(?\\s*14\\s*[;:,]\\s*16"]}],
+  "gerekce": "Risk sınıflaması; somut sitogenetik anormallik geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q25",
+  "soru": "Hastanın otolog kök hücre nakline uygun olup olmadığına nasıl karar verilir?",
+  "hedef": [{"icerik": ["(?i)transplant|nakil",
+                        "(?i)eligib|uygun|aday|candidate|performans|performance"]}],
+  "gerekce": "Nakil uygunluğu değerlendirmesi",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q26",
+  "soru": "Kök hücre mobilizasyonu nasıl yapılır, pleriksafor ne zaman eklenir?",
+  "hedef": [{"icerik": ["(?i)mobiliz",
+                        "(?i)pleriksafor|plerixafor|filgrastim|G-CSF|siklofosfamid|cyclophosphamide"]}],
+  "gerekce": "Mobilizasyon rejimi; ajan adı geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q27",
+  "soru": "Otolog nakilde melfalan kondisyonlama dozu nedir?",
+  "hedef": [{"icerik": ["(?i)melfalan|melphalan", "200\\s*mg/m|140\\s*mg/m"]}],
+  "gerekce": "Kondisyonlama dozu; sayısal doz geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q28",
+  "soru": "Minimal rezidüel hastalık hangi yöntemle ve hangi duyarlılıkta ölçülür?",
+  "hedef": [{"icerik": ["(?i)minimal residual|\\bMRD\\b",
+                        "(?i)10\\s*\\^?\\s*-?\\s*5|next[- ]generation|flow cytometry|akım sitometri"]}],
+  "gerekce": "MRD yöntemi ve duyarlılık eşiği",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q29",
+  "soru": "İlk relapsta tedavi seçimi neye göre yapılır?",
+  "hedef": [{"icerik": ["(?i)relaps|relapse",
+                        "(?i)rejim|regimen|tedavi|therapy|seçenek|option"]}],
+  "gerekce": "Relaps tedavi algoritması",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q30",
+  "soru": "Lenalidomide refrakter hastada hangi tedavi seçenekleri var?",
+  "hedef": [{"icerik": ["(?i)lenalidomid", "(?i)refrakter|refractory"]}],
+  "gerekce": "Lenalidomid refrakter hasta yönetimi",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q31",
+  "soru": "Üç ilaç sınıfına birden refrakter hastada ne yapılmalı?",
+  "hedef": [{"icerik": ["(?i)triple[- ]class|penta[- ]refractory|üç.{0,12}sınıf",
+                        "(?i)refrakter|refractory"]}],
+  "gerekce": "Triple-class refrakter hasta; ileri hat seçenekleri",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q32",
+  "soru": "CAR-T hücre tedavisi hangi hastalarda ve kaçıncı basamakta uygulanır?",
+  "hedef": [{"icerik": ["(?i)CAR[- ]?T|idecabtagene|ciltacabtagene|abecma|carvykti",
+                        "(?i)relaps|refrakter|refractory|prior|önceki|line"]}],
+  "gerekce": "CAR-T endikasyon ve basamak",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q33",
+  "soru": "Miyelomda kemik hastalığını değerlendirmek için hangi görüntüleme yöntemi kullanılmalı?",
+  "hedef": [{"icerik": ["(?i)\\bPET\\b|\\bMRI\\b|whole[- ]body|tüm vücut|low[- ]dose|düşük doz",
+                        "(?i)kemik|bone|lezyon|lesion"]}],
+  "gerekce": "Görüntüleme seçimi; yöntem adı geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q34",
+  "soru": "Miyelomda radyoterapi hangi durumlarda endikedir?",
+  "hedef": [{"icerik": ["(?i)radyoterapi|radiation|radiotherapy",
+                        "(?i)ağrı|pain|palliat|kemik|bone|plasmacytoma|plazmasitom"]}],
+  "gerekce": "Radyoterapi endikasyonu",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q35",
+  "soru": "Miyeloma bağlı hiperkalsemi nasıl tedavi edilir?",
+  "hedef": [{"icerik": ["(?i)hiperkalsemi|hypercalcemia",
+                        "(?i)hidrasyon|hydration|bisfosfonat|bisphosphonate|zoledron|kalsitonin"]}],
+  "gerekce": "Hiperkalsemi acil yönetimi",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q36",
+  "soru": "Spinal kord basısı gelişen miyelom hastasında acil yaklaşım nedir?",
+  "hedef": [{"icerik": ["(?i)cord compression|kord bas|spinal kord|medulla spinalis",
+                        "(?i)radyoterapi|radiation|cerrahi|surgery|deksametazon|dexamethasone"]}],
+  "gerekce": "Onkolojik acil; girişim geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q37",
+  "soru": "Hiperviskozite sendromunda plazmaferez ne zaman yapılır?",
+  "hedef": [{"icerik": ["(?i)hyperviscosity|hiperviskozite",
+                        "(?i)plazmaferez|plasmapheresis|plasma exchange"]}],
+  "gerekce": "Hiperviskozite yönetimi",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q38",
+  "soru": "Kırılgan ve ileri yaştaki hastada tedavi dozu nasıl ayarlanır?",
+  "hedef": [{"icerik": ["(?i)frail|kırılgan|elderly|yaşlı|geriatric|older",
+                        "(?i)doz|dose"]}],
+  "gerekce": "Frail hasta doz azaltma",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q39",
+  "soru": "Miyelom hastasında amiloidoz şüphesi nasıl değerlendirilir?",
+  "hedef": [{"icerik": ["(?i)amiloidoz|amyloidosis",
+                        "(?i)biyopsi|biopsy|kongo|congo|tanı|diagnos"]}],
+  "gerekce": "Amiloidoz taraması",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q40",
+  "soru": "Plazma hücreli lösemi nasıl tanınır ve tedavi edilir?",
+  "hedef": [{"icerik": ["(?i)plasma cell leukemia|plazma hücreli lösemi"]}],
+  "gerekce": "Nadir ama agresif alt tip",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q41",
+  "soru": "Ekstramedüller hastalık varlığında tedavi yaklaşımı değişir mi?",
+  "hedef": [{"icerik": ["(?i)extramedullary|ekstramed[uü]ller"]}],
+  "gerekce": "Ekstramedüller tutulum",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q42",
+  "soru": "Serum serbest hafif zincir oranı tanı ve takipte nasıl kullanılır?",
+  "hedef": [{"icerik": ["(?i)free light chain|serbest hafif zincir|\\bFLC\\b",
+                        "(?i)oran|ratio"]}],
+  "gerekce": "FLC oranı; biyobelirteç ölçütü",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q43",
+  "soru": "Çok iyi kısmi yanıt nasıl tanımlanır?",
+  "hedef": [{"icerik": ["(?i)very good partial response|\\bVGPR\\b"]}],
+  "gerekce": "Yanıt kriteri tanımı",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q44",
+  "soru": "Tekrarlayan enfeksiyon geçiren hipogamaglobulinemili hastada IVIG verilmeli mi?",
+  "hedef": [{"icerik": ["(?i)\\bIVIG\\b|immunoglobulin|immünoglobulin",
+                        "(?i)enfeksiyon|infection|hipogamaglobulin|hypogammaglobulin"]}],
+  "gerekce": "IVIG endikasyonu",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q45",
+  "soru": "Proteozom inhibitörü alan hastada herpes zoster profilaksisi gerekli mi?",
+  "hedef": [{"icerik": ["(?i)zoster|herpes",
+                        "(?i)asiklovir|acyclovir|valasiklovir|valacyclovir|profilaks|prophyla"]}],
+  "gerekce": "Zoster profilaksisi; ajan geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q46",
+  "soru": "Multipl miyelom hastasına hangi aşılar yapılmalı?",
+  "hedef": [{"icerik": ["(?i)aşı|vaccin",
+                        "(?i)influenza|grip|pnömokok|pneumococc|COVID|zoster|hepatit"]}],
+  "gerekce": "Aşılama önerileri; aşı adı geçmeli",
+  "katman": "klinik"
+ },
+ {
+  "id": "Q47",
+  "soru": "Çene osteonekrozu riskini azaltmak için tedavi öncesi ne yapılmalı?",
+  "hedef": [{"icerik": ["(?i)osteonekroz|osteonecrosis|\\bONJ\\b",
+                        "(?i)diş|dental|çene|jaw"]}],
+  "gerekce": "ONJ önlemi; diş değerlendirmesi geçmeli",
+  "katman": "klinik"
+ },
+
+ {
+  "id": "Q48",
+  "soru": "Bortezomib intravenöz ve subkutan uygulama arasında fark var mı?",
+  "hedef": [{"icerik": ["(?i)subkutan|subcutaneous", "(?i)intraven[öo]z|intravenous",
+                        "(?i)bortezomib"]}],
+  "gerekce": "Uygulama yolu karşılaştırması",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q49",
+  "soru": "Karaciğer yetmezliği olan hastada bortezomib dozu nasıl ayarlanır?",
+  "hedef": [{"icerik": ["(?i)bortezomib", "(?i)karaciğer|hepatik|hepatic"]}],
+  "gerekce": "Hepatik yetmezlik doz ayarı",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q50",
+  "soru": "Karfilzomib hangi dozda ve hangi günlerde uygulanır?",
+  "hedef": [{"icerik": ["(?i)karfilzomib|carfilzomib", "20\\s*mg/m|27\\s*mg/m|56\\s*mg/m"]}],
+  "gerekce": "Karfilzomib doz şeması; sayısal doz geçmeli",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q51",
+  "soru": "Karfilzomib öncesi hidrasyon nasıl yapılmalı?",
+  "hedef": [{"icerik": ["(?i)karfilzomib|carfilzomib",
+                        "(?i)hidrasyon|hydration|sıvı|fluid|salin|saline"]}],
+  "gerekce": "Tümör lizis ve böbrek korunması için hidrasyon",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q52",
+  "soru": "İksazomib yemekle birlikte alınabilir mi?",
+  "hedef": [{"icerik": ["(?i)iksazomib|ixazomib|ninlaro",
+                        "(?i)yemek|food|aç karnına|fasting|öğün"]}],
+  "gerekce": "Besinle etkileşim ve alım zamanı",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q53",
+  "soru": "Lenalidomid kullanırken nötropeni veya trombositopeni gelişirse doz nasıl değiştirilir?",
+  "hedef": [{"icerik": ["(?i)lenalidomid",
+                        "(?i)nötropeni|neutropenia|trombositopeni|thrombocytopenia"]}],
+  "gerekce": "Hematolojik toksisite doz modifikasyonu",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q54",
+  "soru": "Pomalidomid dozu nedir, sigara kullanımı etkiler mi?",
+  "hedef": [{"icerik": ["(?i)pomalidomid", "(?i)sigara|smok|CYP1A2"]}],
+  "gerekce": "Pomalidomid ve sigara etkileşimi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q55",
+  "soru": "Talidomid kullanan hastada nöropati nasıl izlenir?",
+  "hedef": [{"icerik": ["(?i)talidomid|thalidomide", "(?i)nöropat|neuropath"]}],
+  "gerekce": "Talidomid nörotoksisitesi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q56",
+  "soru": "Daratumumab subkutan formunun dozu ve uygulama süresi nedir?",
+  "hedef": [{"icerik": ["(?i)daratumumab",
+                        "(?i)1\\.?800\\s*mg|subkutan|subcutaneous"]}],
+  "gerekce": "Subkutan daratumumab dozu",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q57",
+  "soru": "İsatuksimab infüzyon hızı nasıl artırılır?",
+  "hedef": [{"icerik": ["(?i)isatuksimab|isatuximab|sarclisa",
+                        "(?i)inf[üu]zyon|infusion"]}],
+  "gerekce": "İnfüzyon hız basamakları",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q58",
+  "soru": "Elotuzumab öncesi hangi premedikasyon verilir?",
+  "hedef": [{"icerik": ["(?i)elotuzumab|empliciti",
+                        "(?i)premedika|premedication|difenhidramin|ranitidin|parasetamol"]}],
+  "gerekce": "Elotuzumab premedikasyonu",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q59",
+  "soru": "Selineksor kullanan hastada bulantı nasıl önlenir?",
+  "hedef": [{"icerik": ["(?i)selineksor|selinexor|xpovio|nexpovio",
+                        "(?i)bulantı|nausea|antiemetik|antiemetic|5-?HT3"]}],
+  "gerekce": "Selineksor destek tedavisi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q60",
+  "soru": "Böbrek yetmezliği olan hastada melfalan dozu azaltılmalı mı?",
+  "hedef": [{"icerik": ["(?i)melfalan|melphalan", "(?i)böbrek|renal"]}],
+  "gerekce": "Melfalan renal doz ayarı",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q61",
+  "soru": "Siklofosfamid kullanırken mesane toksisitesi nasıl önlenir?",
+  "hedef": [{"icerik": ["(?i)siklofosfamid|cyclophosphamide",
+                        "(?i)mesane|bladder|sistit|cystitis|mesna|hematüri"]}],
+  "gerekce": "Hemorajik sistit önlemi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q62",
+  "soru": "Zoledronik asit dozu böbrek fonksiyonuna göre nasıl ayarlanır?",
+  "hedef": [{"icerik": ["(?i)zoledron",
+                        "(?i)kreatinin|creatinine|klerens|clearance"]}],
+  "gerekce": "Zoledronik asit renal doz tablosu",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q63",
+  "soru": "Denosumab başlanmadan önce kalsiyum ve D vitamini verilmeli mi?",
+  "hedef": [{"icerik": ["(?i)denosumab",
+                        "(?i)hipokalsemi|hypocalcemia|kalsiyum|calcium"]}],
+  "gerekce": "Hipokalsemi riski ve takviye",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q64",
+  "soru": "Talkuetamab tedavisinde tat değişikliği ve deri toksisitesi nasıl yönetilir?",
+  "hedef": [{"icerik": ["(?i)talkuetamab|talquetamab|talvey",
+                        "(?i)tat|taste|dysgeusia|deri|skin|tırnak|nail"]}],
+  "gerekce": "GPRC5D'ye özgü toksisiteler",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q65",
+  "soru": "Elranatamab basamaklı doz şeması nasıl uygulanır?",
+  "hedef": [{"icerik": ["(?i)elranatamab|elrexfio",
+                        "(?i)step[- ]?up|basamak|priming|ilk doz"]}],
+  "gerekce": "Elranatamab step-up dozlama",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q66",
+  "soru": "Belantamab mafodotin göz toksisitesi nasıl izlenir?",
+  "hedef": [{"icerik": ["(?i)belantamab|blenrep",
+                        "(?i)kornea|corneal|göz|ocular|oftalm|ophthalm"]}],
+  "gerekce": "Oküler toksisite izlemi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q67",
+  "soru": "Venetoklaks miyelomda hangi hastalarda düşünülür?",
+  "hedef": [{"icerik": ["(?i)venetoklaks|venetoclax",
+                        "(?i)t\\s*\\(?\\s*11\\s*[;:,]\\s*14|BCL"]}],
+  "gerekce": "t(11;14) alt grubunda venetoklaks",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q68",
+  "soru": "Daratumumab flakonu nasıl saklanır?",
+  "hedef": [{"icerik": ["(?i)daratumumab",
+                        "(?i)buzdolab|refrigerat|saklan|storage|muhafaza"]}],
+  "gerekce": "Soğuk zincir koşulları",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q69",
+  "soru": "Lenalidomid kullanan hastada tromboz profilaksisi için hangi ilaç verilir?",
+  "hedef": [{"icerik": ["(?i)lenalidomid", "(?i)tromb",
+                        "(?i)aspirin|antikoagülan|anticoagul|heparin|profilaks|prophyla"]}],
+  "gerekce": "KÜB tarafındaki tromboprofilaksi ifadesi",
+  "katman": "duzenleyici"
+ },
+ {
+  "id": "Q70",
+  "soru": "Bortezomib gebelik ve emzirme döneminde kullanılabilir mi?",
+  "hedef": [{"icerik": ["(?i)bortezomib", "(?i)gebe|pregnan|emzir|laktasyon|lactat"]}],
+  "gerekce": "Gebelik ve laktasyon uyarısı",
+  "katman": "duzenleyici"
+ },
+
+ {
+  "id": "Q71",
+  "soru": "Lenalidomid SUT kapsamında hangi koşullarda ödenir?",
+  "hedef": [{"belge": "SUT", "icerik": ["(?i)lenalidomid"]},
+            {"icerik": ["(?i)lenalidomid", "(?i)rapor|ödenir|ödeme|bedeli"]}],
+  "gerekce": "Lenalidomid geri ödeme koşulu",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q72",
+  "soru": "Bortezomib geri ödemesi kaçıncı basamakta ve hangi rapora bağlı?",
+  "hedef": [{"belge": "SUT", "icerik": ["(?i)bortezomib"]},
+            {"icerik": ["(?i)bortezomib", "(?i)rapor|ödenir|basamak|kür"]}],
+  "gerekce": "Bortezomib ödeme koşulu",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q73",
+  "soru": "Daratumumab hangi hasta grubunda geri ödeme kapsamında?",
+  "hedef": [{"belge": "SUT", "icerik": ["(?i)daratumumab"]},
+            {"icerik": ["(?i)daratumumab", "(?i)rapor|ödenir|ödeme|koşul"]}],
+  "gerekce": "Daratumumab ödeme koşulu",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q74",
+  "soru": "İlaç kullanım raporunu hangi hekim düzenler ve süresi ne kadardır?",
+  "hedef": [{"icerik": ["(?i)uzman hekim|sağlık kurulu|hematoloji|onkoloji",
+                        "(?i)rapor"]}],
+  "gerekce": "Rapor düzenleme yetkisi ve süresi",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q75",
+  "soru": "Nakil sonrası idame tedavisi geri ödemede karşılanıyor mu?",
+  "hedef": [{"icerik": ["(?i)idame|nakil", "(?i)rapor|ödenir|ödeme|bedeli"]}],
+  "gerekce": "İdame tedavisinin ödeme durumu",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q76",
+  "soru": "Kemik tutulumu için bisfosfonat veya denosumab ödemesinde hangi şartlar var?",
+  "hedef": [{"icerik": ["(?i)zoledron|denosumab|bisfosfonat|pamidronat",
+                        "(?i)rapor|ödenir|ödeme|koşul"]}],
+  "gerekce": "Kemik hedefli tedavi ödeme koşulu",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q77",
+  "soru": "Karfilzomib SUT'ta hangi koşullarda kullanılabilir?",
+  "hedef": [{"belge": "SUT", "icerik": ["(?i)karfilzomib|carfilzomib"]},
+            {"icerik": ["(?i)karfilzomib|carfilzomib", "(?i)rapor|ödenir|koşul"]}],
+  "gerekce": "Karfilzomib ödeme koşulu",
+  "katman": "geri_odeme"
+ },
+ {
+  "id": "Q78",
+  "soru": "Pomalidomid geri ödemesi için kaç basamak tedavi almış olmak gerekir?",
+  "hedef": [{"belge": "SUT", "icerik": ["(?i)pomalidomid"]},
+            {"icerik": ["(?i)pomalidomid", "(?i)rapor|ödenir|basamak|koşul"]}],
+  "gerekce": "Pomalidomid ödeme koşulu ve basamak şartı",
+  "katman": "geri_odeme"
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "id": "N16",
+  "soru": "Akut miyeloid lösemide 7+3 indüksiyon rejimi nasıl uygulanır?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.57,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N17",
+  "soru": "İmmün trombositopenide birinci basamak tedavi nedir?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.608,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N18",
+  "soru": "Kronik miyeloid lösemide imatinib başlangıç dozu kaç mg?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.646,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N19",
+  "soru": "Erken evre Hodgkin lenfomada kaç kür ABVD verilir?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.628,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N20",
+  "soru": "Derin ven trombozunda warfarin ile hedef INR aralığı nedir?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.591,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N21",
+  "soru": "Demir eksikliği anemisinde oral demir tedavisi kaç ay sürdürülmeli?",
+  "reddedildi": true,
+  "neden": "dayanak kapisi",
+  "arama_skoru": 0.606,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": "Bu bilgi arsivde bulunamadi. [K1]"
+ },
+ {
+  "id": "N22",
+  "soru": "Orak hücreli anemide hidroksiüre hangi hastalara başlanır?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.577,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N23",
+  "soru": "Hemofili A'da faktör VIII replasman dozu nasıl hesaplanır?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.574,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N24",
+  "soru": "Ağır aplastik anemide antitimosit globulin tedavisi nasıl verilir?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.589,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N25",
+  "soru": "Del(5q) miyelodisplastik sendromda lenalidomid dozu nedir?",
+  "reddedildi": false,
+  "neden": "CEVAP URETILDI",
+  "arama_skoru": 0.724,
+  "dayanaklilik": 1.0,
+  "cevap": "Del(5q) miyelodisplastik sendromunda lenalidomid dozu 10 mg'dir. [K1]",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N26",
+  "soru": "Mantle hücreli lenfomada bortezomib hangi rejimle kombine edilir?",
+  "reddedildi": false,
+  "neden": "CEVAP URETILDI",
+  "arama_skoru": 0.656,
+  "dayanaklilik": 1.0,
+  "cevap": "Mantle hücreli lenfomada (MCL) bortezomib, rituksimab, siklofosfamid, doksorubisin ve prednizon (VcR-CAP) rejimiyle kombine edilir. [K1]",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N27",
+  "soru": "Kronik lenfositik lösemide ibrutinib ne zaman kesilmeli?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.591,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N28",
+  "soru": "Otoimmün hemolitik anemide rituksimab hangi basamakta kullanılır?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.605,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N29",
+  "soru": "Polisitemia verada flebotomi için hedef hematokrit değeri kaçtır?",
+  "reddedildi": true,
+  "neden": "alan kapisi",
+  "arama_skoru": 0.584,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": ""
+ },
+ {
+  "id": "N30",
+  "soru": "Talasemi majorda demir şelasyonuna hangi ferritin düzeyinde başlanır?",
+  "reddedildi": true,
+  "neden": "dayanak kapisi",
+  "arama_skoru": 0.533,
+  "dayanaklilik": 0.0,
+  "cevap": "Bu bilgi arsivde bulunamadi.",
+  "gizlenen_cevap": "Bu bilgi arsivde bulunamadi. [K1]\n\nTalasemi majorda demir şelasyonuna ferritin düzeyi kaynakta belirtilmemiş."
+ }
+]

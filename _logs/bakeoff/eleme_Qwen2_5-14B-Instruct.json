@@ -1,0 +1,1950 @@
+{
+ "model": "Qwen/Qwen2.5-14B-Instruct",
+ "faz": "eleme",
+ "k": 4,
+ "yukleme_saniye": 140.6,
+ "kayitlar": {
+  "pozitif": [
+   {
+    "id": "Q01",
+    "soru": "Yeni tanı multipl miyelom hastasında başlangıç tanı incelemesinde hangi testler istenmeli?",
+    "arama_skoru": 0.701,
+    "dayanaklilik": 0.875,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Başlangıç tanı incelemesi için aşağıdaki testler istenir: [K4]\n\n- Tarihi ve fiziksel incelemeye dayanarak, periferik kan tarlası incelemesi, tükenmiş azot (BUN), serum créatinin, créatinin temelhanede tahmini veya doğrudan ölçümü, elektrolitler, lever fonksiyon testleri, serum kalsiyum, serum ürik asit, albümin, laktoz asid hidrolizazyen (LDH) ve beta-2 mikroglobulin testleri yapılmalıdır. [K1]\n- Serse ve üriner analiz, serse imünoglobulin düzeyleri (IgG, IgA, IgM), serse protein elektroforezisi (SPEP) ve serse imünofikasyon elektroforezisi (SIFE) dahil olmak üzere serum analizi yapılmalıdır. [K1] Üriner analiz, 24 saatlik toplam protein, üriner protein elektroforezisi (UPEP) ve üriner imünofikasyon elektroforezisi (UIFE) dahil olmak üzere başlangıç tanı incelemesi kapsamında değerlendirilmelidir. [K1]\n- Serse ve üriner analiz, serse protein elektroforezisi (SPEP) ve serse imünofikasyon elektroforezisi (SIFE) dahil olmak üzere serum analizi yapılmalıdır. [K1] [K1] Üriner analiz, 24 saatlik toplam protein, üriner protein elektroforezisi (UPEP) ve üriner imünofikasyon elektroforezisi (UIFE) dahil olmak üzere başlangıç tanı incelemesi kapsamında değerlendirilmelidir. [K1]\n- Serse ve üriner analiz, serse protein elektroforezisi (SPEP) ve serse imünofikasyon elektroforezisi (SIFE) dahil olmak üzere serum analizi yapılmalıdır. Üriner analiz, 24 saatlik toplam protein, üriner protein elektroforezisi (UPE",
+    "saniye": 56.0,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.056,
+      "sem_hepsi": 0.697,
+      "lek_atif": 0.056,
+      "sem_atif": 0.678
+     },
+     {
+      "lek_hepsi": 0.25,
+      "sem_hepsi": 0.662,
+      "lek_atif": 0.25,
+      "sem_atif": 0.662
+     },
+     {
+      "lek_hepsi": 0.176,
+      "sem_hepsi": 0.626,
+      "lek_atif": 0.176,
+      "sem_atif": 0.613
+     },
+     {
+      "lek_hepsi": 0.286,
+      "sem_hepsi": 0.651,
+      "lek_atif": 0.286,
+      "sem_atif": 0.651
+     },
+     {
+      "lek_hepsi": 0.176,
+      "sem_hepsi": 0.626,
+      "lek_atif": 0.176,
+      "sem_atif": 0.613
+     },
+     {
+      "lek_hepsi": 0.286,
+      "sem_hepsi": 0.651,
+      "lek_atif": 0.286,
+      "sem_atif": 0.651
+     },
+     {
+      "lek_hepsi": 0.167,
+      "sem_hepsi": 0.467,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 3,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Başlangıç tanı incelemesi için aşağıdaki testler istenir: [K4]\n\n- Tarihi ve fiziksel incelemeye dayanarak, periferik kan tarlası incelemesi, tükenmiş azot (BUN), serum créatinin, créatinin temelhanede tahmini veya doğrudan ölçümü, elektrolitler, lever fonksiyon testleri, serum kalsiyum, serum ürik asit, albümin, laktoz asid hidrolizazyen (LDH) ve beta-2 mikroglobulin testleri yapılmalıdır. [K1]\n- Serse ve üriner analiz, serse imünoglobulin düzeyleri (IgG, IgA, IgM), serse protein elektroforezisi (SPEP) ve serse imünofikasyon elektroforezisi (SIFE) dahil olmak üzere serum analizi yapılmalıdır. [K1] [K1] Üriner analiz, 24 saatlik toplam protein, üriner protein elektroforezisi (UPEP) ve üriner imünofikasyon elektroforezisi (UIFE) dahil olmak üzere başlangıç tanı incelemesi kapsamında değerlendirilmelidir. [K1]\n- Serse ve üriner analiz, serse protein elektroforezisi (SPEP) ve serse imünofikasyon elektroforezisi (SIFE) dahil olmak üzere serum analizi yapılmalıdır. [K1] [K1] [K1] [K1] Üriner analiz, 24 saatlik toplam protein, üriner protein elektroforezisi (UPEP) ve üriner imünofikasyon elektroforezisi (UIFE) dahil olmak üzere başlangıç tanı incelemesi kapsamında değerlendirilmelidir. [K1]\n- Serse ve üriner analiz, serse protein elektroforezisi (SPEP) ve serse imünofikasyon elektroforezisi (SIFE) dahil olmak üzere serum analizi yapılmalıdır. Üriner analiz, 24 saatlik toplam protein, üriner protein elektroforezisi (UPE",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q03",
+    "soru": "Nakil adayı olan yeni tanı hastada birincil tedavi olarak hangi rejimler öneriliyor?",
+    "arama_skoru": 0.652,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": true,
+    "cevap": "Nakil adayı olan yeni tanı hastada birincil tedavi olarak 4-drug rejimler tercih edilir. [K1] Bu rejimlerin klinik trial'larda daha yüksek yanıt oranları ve derinliği gösterdiği gözlemlenmiştir. [K1] Önerilen birincil tedavi, ilerleme olana kadar devam eder ve gerekirse doz ve süreyi azaltarak değiştirilebilir. [K1]\n\nBortezomib/lenalidomide/dexametazon tripla tedavi, nakil uygun veya nakil için uygun olmayan yeni tanı multiple miyeloma hastalarında etkin ve dayanıklı olduğu gösterilmiştir. [K3]\n\nFrilik değerlendirmesi, yaşlı bireylerde doz düzenlemeleri için fonksiyonel durum ve yaş göz önünde bulundurularak yapılır. [K4]",
+    "saniye": 22.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.077,
+      "sem_hepsi": 0.732,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.516,
+      "lek_atif": 0.0,
+      "sem_atif": 0.516
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.66,
+      "lek_atif": 0.0,
+      "sem_atif": 0.66
+     },
+     {
+      "lek_hepsi": 0.158,
+      "sem_hepsi": 0.692,
+      "lek_atif": 0.0,
+      "sem_atif": 0.535
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.5,
+      "lek_atif": 0.0,
+      "sem_atif": 0.387
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.75,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Nakil adayı olan yeni tanı hastada birincil tedavi olarak 4-drug rejimler tercih edilir. [K1] [K1] Bu rejimlerin klinik trial'larda daha yüksek yanıt oranları ve derinliği gösterdiği gözlemlenmiştir. [K1] Önerilen birincil tedavi, ilerleme olana kadar devam eder ve gerekirse doz ve süreyi azaltarak değiştirilebilir. [K1]\n\nBortezomib/lenalidomide/dexametazon tripla tedavi, nakil uygun veya nakil için uygun olmayan yeni tanı multiple miyeloma hastalarında etkin ve dayanıklı olduğu gösterilmiştir. [K3]\n\nFrilik değerlendirmesi, yaşlı bireylerde doz düzenlemeleri için fonksiyonel durum ve yaş göz önünde bulundurularak yapılır. [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q05",
+    "soru": "Kemik hastalığı olan miyelom hastasında bisfosfonat mı denosumab mı tercih edilmeli?",
+    "arama_skoru": 0.692,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 4,
+    "hedef_tuttu": true,
+    "cevap": "Kemik hastalığı olan miyelom hastasında, nemizdeki kaynaklar temelinde tercih şunlardır: [K1]\n\n- Renal yetmezliği varsa, denosumab tercih edilir. [K2][K3]\n- Renal yetmezlik yoksa, bisfosfonat veya denosumab kullanabilirsiniz. [K2]\n- NCCN rehberleri, kemik hastalığı olan tüm hastalarda kemik hedefleyen tedavi (bisfosfonat veya denosumab) önerir. [K2]\n\nDenosumab, bisfosfonatlara göre daha pahalıdır ve genelleştirilmiş formda mevcut değildir. [K3]\n\nBisfosfonatlar IV infuzyon ile, denosumab ise subkutane uygulama ile verilir. [K4]",
+    "saniye": 21.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.133,
+      "sem_hepsi": 0.709,
+      "lek_atif": 0.133,
+      "sem_atif": 0.671
+     },
+     {
+      "lek_hepsi": 0.286,
+      "sem_hepsi": 0.638,
+      "lek_atif": 0.286,
+      "sem_atif": 0.638
+     },
+     {
+      "lek_hepsi": 0.167,
+      "sem_hepsi": 0.716,
+      "lek_atif": 0.167,
+      "sem_atif": 0.714
+     },
+     {
+      "lek_hepsi": 0.111,
+      "sem_hepsi": 0.665,
+      "lek_atif": 0.111,
+      "sem_atif": 0.523
+     },
+     {
+      "lek_hepsi": 0.167,
+      "sem_hepsi": 0.646,
+      "lek_atif": 0.167,
+      "sem_atif": 0.592
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Kemik hastalığı olan miyelom hastasında, nemizdeki kaynaklar temelinde tercih şunlardır: [K1]\n\n- Renal yetmezliği varsa, denosumab tercih edilir. [K2][K3]\n- Renal yetmezlik yoksa, bisfosfonat veya denosumab kullanabilirsiniz. [K2]\n- NCCN rehberleri, kemik hastalığı olan tüm hastalarda kemik hedefleyen tedavi (bisfosfonat veya denosumab) önerir. [K2]\n\nDenosumab, bisfosfonatlara göre daha pahalıdır ve genelleştirilmiş formda mevcut değildir. [K3]\n\nBisfosfonatlar IV infuzyon ile, denosumab ise subkutane uygulama ile verilir. [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q07",
+    "soru": "Böbrek yetmezliği olan miyelom hastasında tedavi nasıl yönetilir?",
+    "arama_skoru": 0.643,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "Böbrek yetmezliği olan hastalarda dozaj, hastanın tedaviye olan toleransını temel alarak ayarlanmalıdır. [K1] Son Evre Böbrek Hastalığı (ESRD) hastalarında, doz günde bir kez 5 mg olarak uygulanır. [K1] Diyaliz günlerinde doz, KlKR <30 mL/dakika (diyaliz gerektiren) diyalizi takiben uygulanmalıdır. [K1]\n\nBaşlangıç dozu 10 mg olan hastalar için, doz azaltılması gerektiğinde iki günde bir 5 mg veya günde bir kez 2,5 mg doz uygulanmalıdır. [K1]\n\nBöbrek fonksiyonunda azalma olasılığı olan geriyatrik hastalarda doz seçimi dikkatlice yapılmalıdır ve böbrek fonksiyonu izlenebilir. [K1]",
+    "saniye": 24.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.818,
+      "sem_hepsi": 0.638,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.75,
+      "sem_hepsi": 0.744,
+      "lek_atif": 0.75,
+      "sem_atif": 0.744
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.662,
+      "lek_atif": 1.0,
+      "sem_atif": 0.662
+     },
+     {
+      "lek_hepsi": 0.9,
+      "sem_hepsi": 0.669,
+      "lek_atif": 0.9,
+      "sem_atif": 0.669
+     },
+     {
+      "lek_hepsi": 0.667,
+      "sem_hepsi": 0.561,
+      "lek_atif": 0.667,
+      "sem_atif": 0.561
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Böbrek yetmezliği olan hastalarda dozaj, hastanın tedaviye olan toleransını temel alarak ayarlanmalıdır. [K1] [K1] Son Evre Böbrek Hastalığı (ESRD) hastalarında, doz günde bir kez 5 mg olarak uygulanır. [K1] Diyaliz günlerinde doz, KlKR <30 mL/dakika (diyaliz gerektiren) diyalizi takiben uygulanmalıdır. [K1]\n\nBaşlangıç dozu 10 mg olan hastalar için, doz azaltılması gerektiğinde iki günde bir 5 mg veya günde bir kez 2,5 mg doz uygulanmalıdır. [K1]\n\nBöbrek fonksiyonunda azalma olasılığı olan geriyatrik hastalarda doz seçimi dikkatlice yapılmalıdır ve böbrek fonksiyonu izlenebilir. [K1]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q09",
+    "soru": "Soliter plazmasitom tanısı nasıl konur ve nasıl tedavi edilir?",
+    "arama_skoru": 0.621,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Soliter plazmasitom tanısı, tek bir plazmasit topluluğu veya tümörün varlığı ve küçük kemik ContentLoaded'i göz önünde bulundurularak konulur. [K1] Tedavi için radyoterapi (40-50 Gy, 1.8-2.0 Gy fraksiyonlarla [20-25 toplam fraksiyon]) ile ilgili bölgeye uygulanır. [K2] Küçük boyutta olan soliter plazmasitomlar için (5 cm'den küçük), 35-40 Gy dozunun kullanılması da kabul edilebilir [K2].\n\nRadyoterapi, modern teknolojilerle (örneğin, doz modüle edilmiş radyoterapi [IMRT], VMAT, protonlar) uygulanarak, komşu organların zarar görmesini azaltmak için kullanılabilir [K2]. Düzenli olarak, 3-6 aylık aralıklarla takip edilir ve bu süre zarfında kan hücre sayımı, serum kimyası, serum kuantitatif imunoglobulinler, SPEP, FLC assay, 24 saat protein testi gibi testler yapılır [K1].\n\nSistemik tedavi, ileri prognoz riski olan hastalarda dikkate alınabilir [K1].",
+    "saniye": 31.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.604,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.653,
+      "lek_atif": 0.0,
+      "sem_atif": 0.59
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.612,
+      "lek_atif": 0.0,
+      "sem_atif": 0.612
+     },
+     {
+      "lek_hepsi": 0.176,
+      "sem_hepsi": 0.598,
+      "lek_atif": 0.176,
+      "sem_atif": 0.598
+     },
+     {
+      "lek_hepsi": 0.182,
+      "sem_hepsi": 0.63,
+      "lek_atif": 0.182,
+      "sem_atif": 0.63
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.577,
+      "lek_atif": 0.0,
+      "sem_atif": 0.532
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Soliter plazmasitom tanısı, tek bir plazmasit topluluğu veya tümörün varlığı ve küçük kemik ContentLoaded'i göz önünde bulundurularak konulur. [K1] [K1] Tedavi için radyoterapi (40-50 Gy, 1.8-2.0 Gy fraksiyonlarla [20-25 toplam fraksiyon]) ile ilgili bölgeye uygulanır. [K2] Küçük boyutta olan soliter plazmasitomlar için (5 cm'den küçük), 35-40 Gy dozunun kullanılması da kabul edilebilir [K2].\n\nRadyoterapi, modern teknolojilerle (örneğin, doz modüle edilmiş radyoterapi [IMRT], VMAT, protonlar) uygulanarak, komşu organların zarar görmesini azaltmak için kullanılabilir [K2]. Düzenli olarak, 3-6 aylık aralıklarla takip edilir ve bu süre zarfında kan hücre sayımı, serum kimyası, serum kuantitatif imunoglobulinler, SPEP, FLC assay, 24 saat protein testi gibi testler yapılır [K1].\n\nSistemik tedavi, ileri prognoz riski olan hastalarda dikkate alınabilir [K1].",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q11",
+    "soru": "Bortezomib subkutan uygulamada doz ve uygulama sıklığı nedir?",
+    "arama_skoru": 0.723,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": true,
+    "cevap": "Bortezomib'in subkutan uygulaması için, tekrarlanan 28 günlük (4 haftalık) indüksiyon tedavi kürlerinde (1-4. kürler) ve 4. kürün ardından iki konsolidasyon küründe (5 ve 6. kürler) haftada iki kez (1, 4, 8 ve 11. günler) 1,3 mg/m² dozunda uygulanır. [K1] Ancak, bazı çalışmalarda haftada bir kez uygulama önerilmektedir. [K2], [K3]",
+    "saniye": 17.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.895,
+      "sem_hepsi": 0.788,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.333,
+      "sem_hepsi": 0.58,
+      "lek_atif": 0.333,
+      "sem_atif": 0.505
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Bortezomib'in subkutan uygulaması için, tekrarlanan 28 günlük (4 haftalık) indüksiyon tedavi kürlerinde (1-4. kürler) ve 4. kürün ardından iki konsolidasyon küründe (5 ve 6. kürler) haftada iki kez (1, 4, 8 ve 11. günler) 1,3 mg/m² dozunda uygulanır. [K1] [K1] Ancak, bazı çalışmalarda haftada bir kez uygulama önerilmektedir. [K2], [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q13",
+    "soru": "Lenalidomid böbrek fonksiyon bozukluğunda doz ayarlaması nasıl yapılır?",
+    "arama_skoru": 0.722,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": true,
+    "cevap": "Böbrek fonksiyonu bozukluğunda doz ayarlaması, hastanın toleransına bağlı olarak yapılır. [K3] Böbrek yetmezliğinde doz azaltılması veya uygulama sıklığının değiştirilmesi gerekir. [K3] Spesifik doz ayarlamaları, hastanın böbrek fonksiyonu azalmış durumunda 4.2 pozoloji ve uygulama şekli bölümünde tanımlanmıştır. [K3] Böbrek fonksiyon bozukluğu olan hastalarda lenalidomidin oral emilimi değişmediği belirtilmiştir ancak vücuttaki lenalidomid yaklaşık %30'u 4 saatlik tek bir diyaliz seansı sırasında uzaklaştırılır. [K2], [K3], [K4]",
+    "saniye": 21.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.556,
+      "sem_hepsi": 0.658,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.5,
+      "sem_hepsi": 0.675,
+      "lek_atif": 0.125,
+      "sem_atif": 0.675
+     },
+     {
+      "lek_hepsi": 0.583,
+      "sem_hepsi": 0.621,
+      "lek_atif": 0.083,
+      "sem_atif": 0.621
+     },
+     {
+      "lek_hepsi": 0.737,
+      "sem_hepsi": 0.816,
+      "lek_atif": 0.316,
+      "sem_atif": 0.695
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.327,
+      "lek_atif": 0.0,
+      "sem_atif": 0.327
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Böbrek fonksiyonu bozukluğunda doz ayarlaması, hastanın toleransına bağlı olarak yapılır. [K3] [K3] Böbrek yetmezliğinde doz azaltılması veya uygulama sıklığının değiştirilmesi gerekir. [K3] Spesifik doz ayarlamaları, hastanın böbrek fonksiyonu azalmış durumunda 4.2 pozoloji ve uygulama şekli bölümünde tanımlanmıştır. [K3] Böbrek fonksiyon bozukluğu olan hastalarda lenalidomidin oral emilimi değişmediği belirtilmiştir ancak vücuttaki lenalidomid yaklaşık %30'u 4 saatlik tek bir diyaliz seansı sırasında uzaklaştırılır. [K2], [K3], [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q15",
+    "soru": "Daratumumab infüzyon ilişkili reaksiyonlarda premedikasyon nasıl verilir?",
+    "arama_skoru": 0.659,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Daratumumab infüzyon ilişkili reaksiyonların (İRR) riskini azaltmak için premedikasyon uygulanmalıdır. [K1] Premedikasyonların ne zaman ve nasıl verileceği belirtilmemiş olsa da, İRR riskini azaltmak amacıyla kullanılabilecek ilaçlar arasında kortikosteroidler ve antihistaminler yer alabilir. [K4] İRR riskini azaltmak için infüzyon öncesi ilaçlar uygulanmalıdır. [K4]",
+    "saniye": 14.9,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.778,
+      "sem_hepsi": 0.699,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.267,
+      "sem_hepsi": 0.631,
+      "lek_atif": 0.0,
+      "sem_atif": 0.558
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.674,
+      "lek_atif": 1.0,
+      "sem_atif": 0.674
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Daratumumab infüzyon ilişkili reaksiyonların (İRR) riskini azaltmak için premedikasyon uygulanmalıdır. [K1] [K1] Premedikasyonların ne zaman ve nasıl verileceği belirtilmemiş olsa da, İRR riskini azaltmak amacıyla kullanılabilecek ilaçlar arasında kortikosteroidler ve antihistaminler yer alabilir. [K4] İRR riskini azaltmak için infüzyon öncesi ilaçlar uygulanmalıdır. [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q17",
+    "soru": "Karfilzomib kardiyak toksisite açısından hangi uyarıları taşıyor?",
+    "arama_skoru": 0.705,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Karfilzomib kardiyak toksisite riski olduğundan, aşağıdaki uyarıları taşıyor: [K1]\n\n- Karfilzomib uygulamasının ardından yeni başlayan veya önceden mevcut olup kötüleşen kalp yetmezliği (örneğin konjestif kalp yetmezliği, pulmoner ödem, düşük ejeksiyon fraksiyonu), kardiyomiyopati ve miyokard iskemisi ve miyokard enfarktüsü olayları meydana gelebilir. [K1]\n- Klinik çalışmalarda kalp yetmezliği olaylarının insidansı %8, aritmilerin insidansı (büyük bir kısmı atriyal fibrilasyon ve sinüs taşikardisi olan) %8 olmuştur. [K1]\n- Hastalar kalp yetmezliği veya kardiyak iskemi klinik belirtileri veya semptomları için izlenmelidir. [K1] Kardiyak toksisite şüphesi varsa hemen değerlendirme yapılmalıdır. [K1] 3. veya 4. derece kardiyak advers reaksiyonların görülmesi durumunda KARFİLİB bu olaylar düzelene kadar durdurulmalıdır ve yarar/risk değerlendirmesinin sonucuna göre KARFİLİB’i 1 doz düzeyinde azaltarak tekrar başlanıp başlanılmamasına karar verilmelidir. [K1]\n- 75 yaş ve üzerindeki hastalarda kalp yetmezliği riski daha genç hastalara göre daha yüksektir. [K1] New York Kalp Derneği sınıflamasına göre Sınıf III ve IV kalp yetmezliği olan, yakın zamanda miyokard enfarktüsü geçirmiş olan ve tıbbi ilaçlarla kontrol edilemeyen ileti anomalileri, angina veya aritmileri olan hastalar klinik çalışmalara dahil edilmemiştir. [K1] Bu hastalarda kardiyak komplikasyonların gelişme riski daha yüksektir. [K1]",
+    "saniye": 50.0,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.848,
+      "sem_hepsi": 0.819,
+      "lek_atif": 0.848,
+      "sem_atif": 0.819
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.573,
+      "lek_atif": 1.0,
+      "sem_atif": 0.573
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.581,
+      "lek_atif": 1.0,
+      "sem_atif": 0.581
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.652,
+      "lek_atif": 1.0,
+      "sem_atif": 0.652
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.736,
+      "lek_atif": 1.0,
+      "sem_atif": 0.736
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.553,
+      "lek_atif": 1.0,
+      "sem_atif": 0.553
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.588,
+      "lek_atif": 1.0,
+      "sem_atif": 0.588
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.594,
+      "lek_atif": 1.0,
+      "sem_atif": 0.594
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 2,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Karfilzomib kardiyak toksisite riski olduğundan, aşağıdaki uyarıları taşıyor: [K1]\n\n- Karfilzomib uygulamasının ardından yeni başlayan veya önceden mevcut olup kötüleşen kalp yetmezliği (örneğin konjestif kalp yetmezliği, pulmoner ödem, düşük ejeksiyon fraksiyonu), kardiyomiyopati ve miyokard iskemisi ve miyokard enfarktüsü olayları meydana gelebilir. [K1]\n- Klinik çalışmalarda kalp yetmezliği olaylarının insidansı %8, aritmilerin insidansı (büyük bir kısmı atriyal fibrilasyon ve sinüs taşikardisi olan) %8 olmuştur. [K1]\n- Hastalar kalp yetmezliği veya kardiyak iskemi klinik belirtileri veya semptomları için izlenmelidir. [K1] [K1] Kardiyak toksisite şüphesi varsa hemen değerlendirme yapılmalıdır. [K1] 3. veya 4. derece kardiyak advers reaksiyonların görülmesi durumunda KARFİLİB bu olaylar düzelene kadar durdurulmalıdır ve yarar/risk değerlendirmesinin sonucuna göre KARFİLİB’i 1 doz düzeyinde azaltarak tekrar başlanıp başlanılmamasına karar verilmelidir. [K1]\n- 75 yaş ve üzerindeki hastalarda kalp yetmezliği riski daha genç hastalara göre daha yüksektir. [K1] [K1] New York Kalp Derneği sınıflamasına göre Sınıf III ve IV kalp yetmezliği olan, yakın zamanda miyokard enfarktüsü geçirmiş olan ve tıbbi ilaçlarla kontrol edilemeyen ileti anomalileri, angina veya aritmileri olan hastalar klinik çalışmalara dahil edilmemiştir. [K1] Bu hastalarda kardiyak komplikasyonların gelişme riski daha yüksektir. [K1]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q19",
+    "soru": "Multipl miyelomda ilaç geri ödemesi için hangi rapor ve koşullar aranıyor?",
+    "arama_skoru": 0.625,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "Minimal residu hastalik (MRD) negatifligi raporlanir ve bu durumun sürdürülebilir olmasi istenir. [K1] MRD negatifligi, NGF veya NGS ile kan, boncuktissue örneklerinden klonal plazma hücresi belirtilmesi, veya tekrarlayan myeloma olgusu icin pozitif imajli test sonucu kaybedilmesi durumlarinda kaybedilir. [K1]\n\nİlaç geri ödemesi durumunda, MRD negatifliginin kaybedilmesi, serum veya urin M proteininin tekrar ortaya cikmasi, boncuk mereminde klonal plazma hücrelerin %5 veya daha fazla olmasi, veya yeni plazma sitomator, solunum kemik yarasasi veya hipercalcemia gibi ilerleme belirtileri görülmesi durumlarinda raporlanir. [K1]",
+    "saniye": 25.9,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.111,
+      "sem_hepsi": 0.6,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.053,
+      "sem_hepsi": 0.601,
+      "lek_atif": 0.053,
+      "sem_atif": 0.547
+     },
+     {
+      "lek_hepsi": 0.031,
+      "sem_hepsi": 0.661,
+      "lek_atif": 0.0,
+      "sem_atif": 0.591
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Minimal residu hastalik (MRD) negatifligi raporlanir ve bu durumun sürdürülebilir olmasi istenir. [K1] [K1] MRD negatifligi, NGF veya NGS ile kan, boncuktissue örneklerinden klonal plazma hücresi belirtilmesi, veya tekrarlayan myeloma olgusu icin pozitif imajli test sonucu kaybedilmesi durumlarinda kaybedilir. [K1]\n\nİlaç geri ödemesi durumunda, MRD negatifliginin kaybedilmesi, serum veya urin M proteininin tekrar ortaya cikmasi, boncuk mereminde klonal plazma hücrelerin %5 veya daha fazla olmasi, veya yeni plazma sitomator, solunum kemik yarasasi veya hipercalcemia gibi ilerleme belirtileri görülmesi durumlarinda raporlanir. [K1]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q21",
+    "soru": "Multipl miyelom tanısı için hangi ölçütler gerekli, CRAB bulguları nelerdir?",
+    "arama_skoru": 0.674,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Multipl miyelom tanısı için gerekli olan ölçütler ve CRAB bulguları şunlardır: [K1]\n\nCRAB bulguları, multipl miyelom tanı标准答案，请严格按照规则作答。 [K1]",
+    "saniye": 8.0,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.091,
+      "sem_hepsi": 0.659,
+      "lek_atif": 0.091,
+      "sem_atif": 0.659
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Multipl miyelom tanısı için gerekli olan ölçütler ve CRAB bulguları şunlardır: [K1]\n\nCRAB bulguları, multipl miyelom tanı标准答案，请严格按照规则作答。 [K1]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q23",
+    "soru": "Revize uluslararası evreleme sistemi hangi parametreleri kullanır?",
+    "arama_skoru": 0.549,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Revize Uluslararası Evreleme Sistemi (R-ISS) aşağıdaki parametreleri kullanır: [K3]\n\n- ISS (Uluslararası Evreleme Sistemi) aşaması [K3]\n- Standart risk kromozomal anomalileri (FISH ile belirlenmiş) [K3]\n- Serum LDH (Laktat Dehidrogenaz) düzeyinin Üstlimitsiz Değer (ULN) ile ilişkisi [K3]\n\nR-ISS, ISS aşamasını ve standart risk kromozomal anomalilerini içerirken, serum LDH'nin ULN ile ilişkisini de dikkate alır. [K3]",
+    "saniye": 16.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.148,
+      "sem_hepsi": 0.733,
+      "lek_atif": 0.111,
+      "sem_atif": 0.733
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Revize Uluslararası Evreleme Sistemi (R-ISS) aşağıdaki parametreleri kullanır: [K3]\n\n- ISS (Uluslararası Evreleme Sistemi) aşaması [K3]\n- Standart risk kromozomal anomalileri (FISH ile belirlenmiş) [K3]\n- Serum LDH (Laktat Dehidrogenaz) düzeyinin Üstlimitsiz Değer (ULN) ile ilişkisi [K3]\n\nR-ISS, ISS aşamasını ve standart risk kromozomal anomalilerini içerirken, serum LDH'nin ULN ile ilişkisini de dikkate alır. [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q25",
+    "soru": "Hastanın otolog kök hücre nakline uygun olup olmadığına nasıl karar verilir?",
+    "arama_skoru": 0.61,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "Hastanın otolog kök hücre nakline (OKHT) uygun olup olmadığına karar vermek için sağlık kurulu raporu hazırlanır. [K1] Bu rapor, Hastanın HLA doku grubu uyumlu verici olup olmadığı, kök hücre nakli için uygun olup olmadığı ve sağlık sisteminde ruhsatlandırılmış ve çalışma izni almış bir kemik iliği nakli merkezinin bulunduğu koşulları kontrol eder. [K1]\n\nHastanın otolog kök hücre naklinin uygunluğu, en az bir erişkin hematoloji veya çocuk hematoloji veya çocuk hematoloji ve onkoloji uzman hekiminin yer aldığı sağlık kurulu tarafından değerlendirilir. [K1]",
+    "saniye": 19.0,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.4,
+      "sem_hepsi": 0.648,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.56,
+      "sem_hepsi": 0.7,
+      "lek_atif": 0.56,
+      "sem_atif": 0.7
+     },
+     {
+      "lek_hepsi": 0.647,
+      "sem_hepsi": 0.662,
+      "lek_atif": 0.647,
+      "sem_atif": 0.662
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.75,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Hastanın otolog kök hücre nakline (OKHT) uygun olup olmadığına karar vermek için sağlık kurulu raporu hazırlanır. [K1] [K1] Bu rapor, Hastanın HLA doku grubu uyumlu verici olup olmadığı, kök hücre nakli için uygun olup olmadığı ve sağlık sisteminde ruhsatlandırılmış ve çalışma izni almış bir kemik iliği nakli merkezinin bulunduğu koşulları kontrol eder. [K1]\n\nHastanın otolog kök hücre naklinin uygunluğu, en az bir erişkin hematoloji veya çocuk hematoloji veya çocuk hematoloji ve onkoloji uzman hekiminin yer aldığı sağlık kurulu tarafından değerlendirilir. [K1]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q27",
+    "soru": "Otolog nakilde melfalan kondisyonlama dozu nedir?",
+    "arama_skoru": 0.605,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Otolog kemik iliği kurtarma tedavisi ile birlikte kullanılan melfalan dozları genellikle 100 ve 240 mg/m2 vücut yüzey alanı arasında kullanılır. [K2] 140 mg/m2 vücut yüzey alanı dozu aşan dozlar, otolog kemik iliği kurtarma tedavisi gerektirebilir. [K2]",
+    "saniye": 12.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.867,
+      "sem_hepsi": 0.649,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.917,
+      "sem_hepsi": 0.55,
+      "lek_atif": 0.917,
+      "sem_atif": 0.55
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Otolog kemik iliği kurtarma tedavisi ile birlikte kullanılan melfalan dozları genellikle 100 ve 240 mg/m2 vücut yüzey alanı arasında kullanılır. [K2] [K2] 140 mg/m2 vücut yüzey alanı dozu aşan dozlar, otolog kemik iliği kurtarma tedavisi gerektirebilir. [K2]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q29",
+    "soru": "İlk relapsta tedavi seçimi neye göre yapılır?",
+    "arama_skoru": 0.617,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "İlk relapsta tedavi seçimi, enzim replasman tedavisi uygulanamayan durumlarda miglustat tedavisine geçilir. [K1] Bu geçiş, gaucher hastalığında enzim tedavisine alerjik reaksiyonlar veya hipersensitivite geliştiren hastalarda veya enzim tedavisi kriterlerine göre kesilmiş hastalarda yapılır. [K1]",
+    "saniye": 11.6,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.636,
+      "sem_hepsi": 0.744,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.688,
+      "sem_hepsi": 0.647,
+      "lek_atif": 0.688,
+      "sem_atif": 0.647
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "İlk relapsta tedavi seçimi, enzim replasman tedavisi uygulanamayan durumlarda miglustat tedavisine geçilir. [K1] [K1] Bu geçiş, gaucher hastalığında enzim tedavisine alerjik reaksiyonlar veya hipersensitivite geliştiren hastalarda veya enzim tedavisi kriterlerine göre kesilmiş hastalarda yapılır. [K1]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q31",
+    "soru": "Üç ilaç sınıfına birden refrakter hastada ne yapılmalı?",
+    "arama_skoru": 0.61,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "Üç ilaca (bortezomib, IMID ve proteasom inhibitiörü) refrakter multipl miyelom hastasında, KYPROLİS (karfizoximab) ve deksametazon kombinasyonu kullanılabilmektedir. [K4]",
+    "saniye": 9.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.5,
+      "sem_hepsi": 0.769,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.75,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Üç ilaca (bortezomib, IMID ve proteasom inhibitiörü) refrakter multipl miyelom hastasında, KYPROLİS (karfizoximab) ve deksametazon kombinasyonu kullanılabilmektedir. [K4]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q33",
+    "soru": "Miyelomda kemik hastalığını değerlendirmek için hangi görüntüleme yöntemi kullanılmalı?",
+    "arama_skoru": 0.637,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Kemik hastalığını değerlendirmek için whole-body FDG-PET/CT veya whole-body low-dose CT önerilir. [K1] Negatif sonuçlar verirse, whole-body MRI (kontrast kullanılmadan) alternatif olarak düşünülebilir. [K1]",
+    "saniye": 8.6,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.333,
+      "sem_hepsi": 0.696,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.2,
+      "sem_hepsi": 0.576,
+      "lek_atif": 0.2,
+      "sem_atif": 0.576
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Kemik hastalığını değerlendirmek için whole-body FDG-PET/CT veya whole-body low-dose CT önerilir. [K1] [K1] Negatif sonuçlar verirse, whole-body MRI (kontrast kullanılmadan) alternatif olarak düşünülebilir. [K1]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q35",
+    "soru": "Miyeloma bağlı hiperkalsemi nasıl tedavi edilir?",
+    "arama_skoru": 0.676,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Miyeloma bağlı hiperkalsemi tedavisi için zoledronik asit, bisfosfonatlar ve denosumab kullanılır. [K1] Hiperkalsemi durumundahydration, bisfosfonatlar, denosumab, steroidler ve/veya kalsitonin ile tedavi yapılır. [K4] NCCN Multiple Myeloma Panel üyeleri, hiperkalsemi tedavisinde zoledronik asidin tercih edilmesini önerir. [K1], [K4]\n\nZoledronik asidi kullanırken, hiperkalsemi tedavisi için önerilen doz 4 mg'dır. [K4] Bu doz, konsantre çözülüm 100 ml a/h %0.9 sodyum klorür veya %5 dekstroz çözeltisi ile seyreltilerek, her 3 veya 4 haftada bir, en az 15-30 dakika devam eden intravenöz infüzyon ile verilir. [K4] PLAZOL uygulanmadan önce ve uygulandıktan sonra hastaların yeteri kadar hidratasyon durumundaki olduğundan emin olunmalıdır. [K4]",
+    "saniye": 28.5,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.4,
+      "sem_hepsi": 0.722,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.222,
+      "sem_hepsi": 0.72,
+      "lek_atif": 0.111,
+      "sem_atif": 0.671
+     },
+     {
+      "lek_hepsi": 0.333,
+      "sem_hepsi": 0.672,
+      "lek_atif": 0.167,
+      "sem_atif": 0.672
+     },
+     {
+      "lek_hepsi": 0.571,
+      "sem_hepsi": 0.794,
+      "lek_atif": 0.571,
+      "sem_atif": 0.794
+     },
+     {
+      "lek_hepsi": 0.733,
+      "sem_hepsi": 0.651,
+      "lek_atif": 0.733,
+      "sem_atif": 0.651
+     },
+     {
+      "lek_hepsi": 0.615,
+      "sem_hepsi": 0.654,
+      "lek_atif": 0.615,
+      "sem_atif": 0.654
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.75,
+    "atif_onarimi": {
+     "eklenen": 2,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Miyeloma bağlı hiperkalsemi tedavisi için zoledronik asit, bisfosfonatlar ve denosumab kullanılır. [K1] [K1] Hiperkalsemi durumundahydration, bisfosfonatlar, denosumab, steroidler ve/veya kalsitonin ile tedavi yapılır. [K4] NCCN Multiple Myeloma Panel üyeleri, hiperkalsemi tedavisinde zoledronik asidin tercih edilmesini önerir. [K1], [K4]\n\nZoledronik asidi kullanırken, hiperkalsemi tedavisi için önerilen doz 4 mg'dır. [K4] [K4] Bu doz, konsantre çözülüm 100 ml a/h %0.9 sodyum klorür veya %5 dekstroz çözeltisi ile seyreltilerek, her 3 veya 4 haftada bir, en az 15-30 dakika devam eden intravenöz infüzyon ile verilir. [K4] PLAZOL uygulanmadan önce ve uygulandıktan sonra hastaların yeteri kadar hidratasyon durumundaki olduğundan emin olunmalıdır. [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q37",
+    "soru": "Hiperviskozite sendromunda plazmaferez ne zaman yapılır?",
+    "arama_skoru": 0.587,
+    "dayanaklilik": 0.0,
+    "atif_sayisi": 0,
+    "hedef_tuttu": false,
+    "cevap": "Bu bilgi arsivde bulunamadi.",
+    "saniye": 5.1,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.346,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Bu bilgi arsivde bulunamadi.",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q39",
+    "soru": "Miyelom hastasında amiloidoz şüphesi nasıl değerlendirilir?",
+    "arama_skoru": 0.618,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": true,
+    "cevap": "Miyelom hastasında amiloidoz şüphesi değerlendirildiğinde aşağıdaki adımlar izlenmelidir: [K4]\n\n- Monoklonal protein (M protein) serum veya üriner örneklerde tespit ve kantitasyonu yapılır. [K4]\n- Serse ve serbest IgL ışığı zinciri (FLC) oranının ölçülmesi. [K4]\n- Kan akış hızı (hyperviscosity) değerlendirilir. [K4]\n- Kan albümine, beta-2-mikroglobulin, serbest kappa ve serbest lambda ışığı zincirleri düzeyleri ölçülür. [K4]\n- Üreme (renal) disfonksiyonu tespit edilir. [K2]\n- Kan içindeki amiloid deponlarının histolojik olarak tespiti ve imün-elektron mikroskopisi ile amiloidojenik proteinin karakterize edilmesi gerekir. [K3]\n\nSerum FLC oranındaki uzun vadeli artış amiloidoz tanısı konmasından önce olabilir. [K3]\n\nSerum kalp troponin, amino-terminal brain tipi natrüriyetik peptidi ve serum FLC seviyeleri yüksekse, bu amiloidoz için kötüPrognoz faktörleridir. [K3]",
+    "saniye": 32.6,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.118,
+      "sem_hepsi": 0.736,
+      "lek_atif": 0.118,
+      "sem_atif": 0.736
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.533,
+      "lek_atif": 0.0,
+      "sem_atif": 0.533
+     },
+     {
+      "lek_hepsi": 0.25,
+      "sem_hepsi": 0.555,
+      "lek_atif": 0.25,
+      "sem_atif": 0.555
+     },
+     {
+      "lek_hepsi": 0.3,
+      "sem_hepsi": 0.585,
+      "lek_atif": 0.3,
+      "sem_atif": 0.585
+     },
+     {
+      "lek_hepsi": 0.2,
+      "sem_hepsi": 0.54,
+      "lek_atif": 0.2,
+      "sem_atif": 0.486
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.675,
+      "lek_atif": 0.0,
+      "sem_atif": 0.557
+     },
+     {
+      "lek_hepsi": 0.1,
+      "sem_hepsi": 0.615,
+      "lek_atif": 0.1,
+      "sem_atif": 0.615
+     },
+     {
+      "lek_hepsi": 0.267,
+      "sem_hepsi": 0.621,
+      "lek_atif": 0.267,
+      "sem_atif": 0.621
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Miyelom hastasında amiloidoz şüphesi değerlendirildiğinde aşağıdaki adımlar izlenmelidir: [K4]\n\n- Monoklonal protein (M protein) serum veya üriner örneklerde tespit ve kantitasyonu yapılır. [K4]\n- Serse ve serbest IgL ışığı zinciri (FLC) oranının ölçülmesi. [K4]\n- Kan akış hızı (hyperviscosity) değerlendirilir. [K4]\n- Kan albümine, beta-2-mikroglobulin, serbest kappa ve serbest lambda ışığı zincirleri düzeyleri ölçülür. [K4]\n- Üreme (renal) disfonksiyonu tespit edilir. [K2]\n- Kan içindeki amiloid deponlarının histolojik olarak tespiti ve imün-elektron mikroskopisi ile amiloidojenik proteinin karakterize edilmesi gerekir. [K3]\n\nSerum FLC oranındaki uzun vadeli artış amiloidoz tanısı konmasından önce olabilir. [K3]\n\nSerum kalp troponin, amino-terminal brain tipi natrüriyetik peptidi ve serum FLC seviyeleri yüksekse, bu amiloidoz için kötüPrognoz faktörleridir. [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q41",
+    "soru": "Ekstramedüller hastalık varlığında tedavi yaklaşımı değişir mi?",
+    "arama_skoru": 0.584,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Ekstramedüller hastalık varlığında tedavi yaklaşımı değişebilir. [K1] Hematoloji ve/veya onkoloji uzmanlarının yer aldığı sağlık kurulunda değerlendirilerek tedavi planı oluşturulur. [K3] Tedavi, hastanın spesifik duruma dayanarak monoterapi olarak veya deksametazon ile kombinasyon halinde uygulanabilir. [K1] Tedavinin devamı veya sonlandırılması, kür sonuçlarına dayanılarak belirlenir. [K1]",
+    "saniye": 14.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.333,
+      "sem_hepsi": 0.623,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.545,
+      "sem_hepsi": 0.58,
+      "lek_atif": 0.545,
+      "sem_atif": 0.546
+     },
+     {
+      "lek_hepsi": 0.583,
+      "sem_hepsi": 0.659,
+      "lek_atif": 0.25,
+      "sem_atif": 0.598
+     },
+     {
+      "lek_hepsi": 0.429,
+      "sem_hepsi": 0.613,
+      "lek_atif": 0.429,
+      "sem_atif": 0.613
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.75,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Ekstramedüller hastalık varlığında tedavi yaklaşımı değişebilir. [K1] [K1] Hematoloji ve/veya onkoloji uzmanlarının yer aldığı sağlık kurulunda değerlendirilerek tedavi planı oluşturulur. [K3] Tedavi, hastanın spesifik duruma dayanarak monoterapi olarak veya deksametazon ile kombinasyon halinde uygulanabilir. [K1] Tedavinin devamı veya sonlandırılması, kür sonuçlarına dayanılarak belirlenir. [K1]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q43",
+    "soru": "Çok iyi kısmi yanıt nasıl tanımlanır?",
+    "arama_skoru": 0.547,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Çok iyi kısmi yanıt (Very Good Partial Response, VGPR) IMWG kriterlerine gore tanimlanir. [K1]\n\nVGPR detayli tanimi ve kriterleri verilmeyince, sadece verilen kapsam icerisindeki bilgi ile bu tanımla dusunulmelidir. [K1] Kaynaklar VGPR'in tam yanit (CR), stringer tam yanit (sCR) ve parcasi oldugundan, bu seviyeyi gecen bir yanitin olduklarini belirtmektedir ancak detaylari vermemektedir. [K1]",
+    "saniye": 15.9,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.545,
+      "sem_hepsi": 0.635,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.083,
+      "sem_hepsi": 0.508,
+      "lek_atif": 0.083,
+      "sem_atif": 0.508
+     },
+     {
+      "lek_hepsi": 0.071,
+      "sem_hepsi": 0.574,
+      "lek_atif": 0.071,
+      "sem_atif": 0.574
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Çok iyi kısmi yanıt (Very Good Partial Response, VGPR) IMWG kriterlerine gore tanimlanir. [K1]\n\nVGPR detayli tanimi ve kriterleri verilmeyince, sadece verilen kapsam icerisindeki bilgi ile bu tanımla dusunulmelidir. [K1] [K1] Kaynaklar VGPR'in tam yanit (CR), stringer tam yanit (sCR) ve parcasi oldugundan, bu seviyeyi gecen bir yanitin olduklarini belirtmektedir ancak detaylari vermemektedir. [K1]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q45",
+    "soru": "Proteozom inhibitörü alan hastada herpes zoster profilaksisi gerekli mi?",
+    "arama_skoru": 0.679,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": true,
+    "cevap": "Herpes zoster reaktivasyonu riskini azaltmak için proteozom inhibitörü alan hastalarda antiviral profilaksi yapılması düşünülmelidir. [K1], [K2], [K3]",
+    "saniye": 8.5,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.643,
+      "sem_hepsi": 0.67,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.336,
+      "lek_atif": 0.0,
+      "sem_atif": 0.331
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Herpes zoster reaktivasyonu riskini azaltmak için proteozom inhibitörü alan hastalarda antiviral profilaksi yapılması düşünülmelidir. [K1], [K2], [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q47",
+    "soru": "Çene osteonekrozu riskini azaltmak için tedavi öncesi ne yapılmalı?",
+    "arama_skoru": 0.672,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 4,
+    "hedef_tuttu": true,
+    "cevap": "Tedavi öncesi uygun önleyici diş hekimliği tedbirlerini içeren bir diş muayenesi yapılması önerilir. [K4] Ayrıca, kemik rezorpsiyonunu inhibe eden tıbbi ürün kullanmakta olan hastalarda, diş sağlığını korumak için diş muayenesinden geçirilmelidir. [K3] Tedavi öncesinde invazif dental prosedürlerin mümkün olduğunca kaçınılması tavsiye edilir. [K4] Sigara kullanma alışkanlıklarının bırakılması ve oral hijyenin iyileştirilmesi de önemlidir. [K1], [K2], [K3]",
+    "saniye": 17.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.8,
+      "sem_hepsi": 0.591,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.533,
+      "sem_hepsi": 0.562,
+      "lek_atif": 0.533,
+      "sem_atif": 0.561
+     },
+     {
+      "lek_hepsi": 0.7,
+      "sem_hepsi": 0.594,
+      "lek_atif": 0.3,
+      "sem_atif": 0.565
+     },
+     {
+      "lek_hepsi": 0.25,
+      "sem_hepsi": 0.534,
+      "lek_atif": 0.25,
+      "sem_atif": 0.515
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.329,
+      "lek_atif": 0.0,
+      "sem_atif": 0.329
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Tedavi öncesi uygun önleyici diş hekimliği tedbirlerini içeren bir diş muayenesi yapılması önerilir. [K4] [K4] Ayrıca, kemik rezorpsiyonunu inhibe eden tıbbi ürün kullanmakta olan hastalarda, diş sağlığını korumak için diş muayenesinden geçirilmelidir. [K3] Tedavi öncesinde invazif dental prosedürlerin mümkün olduğunca kaçınılması tavsiye edilir. [K4] Sigara kullanma alışkanlıklarının bırakılması ve oral hijyenin iyileştirilmesi de önemlidir. [K1], [K2], [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q49",
+    "soru": "Karaciğer yetmezliği olan hastada bortezomib dozu nasıl ayarlanır?",
+    "arama_skoru": 0.738,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": true,
+    "cevap": "Orta veya ciddi karaciğer yetmezliği olan hastalarda bortezomib dozu azaltılmalıdır. [K2] Orta veya ciddi karaciğer yetmezliği nedeniyle doza göre normalleştirilmiş bortezomib EAA değerlerinde yaklaşık %60'lık bir artış gözlemlenmiştir. [K2] Bu hastalar yakından takip edilmelidir. [K1], [K4]",
+    "saniye": 13.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.8,
+      "sem_hepsi": 0.702,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.857,
+      "sem_hepsi": 0.741,
+      "lek_atif": 0.786,
+      "sem_atif": 0.741
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.534,
+      "lek_atif": 1.0,
+      "sem_atif": 0.502
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Orta veya ciddi karaciğer yetmezliği olan hastalarda bortezomib dozu azaltılmalıdır. [K2] [K2] Orta veya ciddi karaciğer yetmezliği nedeniyle doza göre normalleştirilmiş bortezomib EAA değerlerinde yaklaşık %60'lık bir artış gözlemlenmiştir. [K2] Bu hastalar yakından takip edilmelidir. [K1], [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q51",
+    "soru": "Karfilzomib öncesi hidrasyon nasıl yapılmalı?",
+    "arama_skoru": 0.652,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Karfilzomib öncesi hidrasyon, %5 enjeksiyonluk dekstroz içeren 50 mL veya 100 mL lik bir intravenöz torbadan uygulanır. [K4] Hidrasyon, karfilzomib uygulamasının hemen öncesinde ve sonrasında normal salin çözeltisi ile de行われmalıdır. [K3]",
+    "saniye": 12.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.6,
+      "sem_hepsi": 0.675,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.8,
+      "sem_hepsi": 0.622,
+      "lek_atif": 0.8,
+      "sem_atif": 0.622
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Karfilzomib öncesi hidrasyon, %5 enjeksiyonluk dekstroz içeren 50 mL veya 100 mL lik bir intravenöz torbadan uygulanır. [K4] [K4] Hidrasyon, karfilzomib uygulamasının hemen öncesinde ve sonrasında normal salin çözeltisi ile de行われmalıdır. [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q53",
+    "soru": "Lenalidomid kullanırken nötropeni veya trombositopeni gelişirse doz nasıl değiştirilir?",
+    "arama_skoru": 0.728,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 4,
+    "hedef_tuttu": true,
+    "cevap": "Lenalidomid tedavisinin başlangıcında nötropeni veya trombositopeni gelişirse, dozda kesilme ve/veya dozda azaltma gerekebilir [K3]. Nötropeni durumunda hekim tedavide büyüme faktörlerinin kullanılmasını düşünmelidir. [K3] Febril nöbetlerinde tedaviye ara vermek ve/veya dozu azaltmak gerekli olabilir [K3]. Önerilen başlangıç dozu 10 mg'dır ancak, nötropeni durumunda doz azaltma basamakları uygulanabilir [K1, K2, K4].",
+    "saniye": 17.9,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.909,
+      "sem_hepsi": 0.766,
+      "lek_atif": 0.909,
+      "sem_atif": 0.766
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.581,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.889,
+      "sem_hepsi": 0.611,
+      "lek_atif": 0.889,
+      "sem_atif": 0.611
+     },
+     {
+      "lek_hepsi": 0.778,
+      "sem_hepsi": 0.717,
+      "lek_atif": 0.778,
+      "sem_atif": 0.717
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Lenalidomid tedavisinin başlangıcında nötropeni veya trombositopeni gelişirse, dozda kesilme ve/veya dozda azaltma gerekebilir [K3]. Nötropeni durumunda hekim tedavide büyüme faktörlerinin kullanılmasını düşünmelidir. [K3] [K3] Febril nöbetlerinde tedaviye ara vermek ve/veya dozu azaltmak gerekli olabilir [K3]. Önerilen başlangıç dozu 10 mg'dır ancak, nötropeni durumunda doz azaltma basamakları uygulanabilir [K1, K2, K4].",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q55",
+    "soru": "Talidomid kullanan hastada nöropati nasıl izlenir?",
+    "arama_skoru": 0.699,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Hastaların nöropati semptomları dikkatlice izlenmesi önerilmektedir. [K4] İzlenen semptomlar parestezi, diastezi, rahatsızlık, koordinasyon bozukluğu veya halsizliktir. [K4] Talidomid tedavisine başlamadan önce klinik ve nörolojik incelemeler yapılması ve tedavi sırasında rutin izlenmesi önemlidir. [K2]\n\nNöropatinin şiddetine göre tedavi ve doz yönetimi değişir: [K4]\n\n- **Derece 1 (parestezi, halsizlik ve/veya refleks kaybı):** Hastanın klinik inceleme ile izlenmesine devam edilir. [K4] Hastanın durumu kötüleşirse %50'ye kadar doz azaltılır. [K4]\n- **Derece 2 (fonksiyonların engellenip, günlük yaşam aktivitelerinin engellenmemesi):** Doz azaltılır veya tedavi kesilir ve hasta klinik ve nörolojik inceleme ile izlenmeye devam edilir. [K4] Hiçbir iyileşme yoksa veya nöropati ilerliyorsa, tedavi kesilmelidir. [K4] Eğer hasta nöropati semptomları Derece 1 veya daha iyiye giderse ve yarar/zarar oranı uygun ise, tedaviye tekrar başlanabilir. [K4]\n- **Derece 3 (günlük yaşam aktivitelerinin engellenmesi):** Tedavi kesilmeli. [K4]\n- **Derece 4 (sakat edici nöropati):** Tedavi kesilmeli. [K4]",
+    "saniye": 41.3,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.597,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.889,
+      "sem_hepsi": 0.571,
+      "lek_atif": 0.333,
+      "sem_atif": 0.571
+     },
+     {
+      "lek_hepsi": 0.769,
+      "sem_hepsi": 0.671,
+      "lek_atif": 0.231,
+      "sem_atif": 0.642
+     },
+     {
+      "lek_hepsi": 0.778,
+      "sem_hepsi": 0.751,
+      "lek_atif": 0.778,
+      "sem_atif": 0.751
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.588,
+      "lek_atif": 1.0,
+      "sem_atif": 0.588
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.682,
+      "lek_atif": 1.0,
+      "sem_atif": 0.682
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.63,
+      "lek_atif": 1.0,
+      "sem_atif": 0.63
+     },
+     {
+      "lek_hepsi": 0.938,
+      "sem_hepsi": 0.621,
+      "lek_atif": 0.938,
+      "sem_atif": 0.621
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.597,
+      "lek_atif": 1.0,
+      "sem_atif": 0.597
+     },
+     {
+      "lek_hepsi": 0.833,
+      "sem_hepsi": 0.668,
+      "lek_atif": 0.833,
+      "sem_atif": 0.668
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 3,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Hastaların nöropati semptomları dikkatlice izlenmesi önerilmektedir. [K4] [K4] İzlenen semptomlar parestezi, diastezi, rahatsızlık, koordinasyon bozukluğu veya halsizliktir. [K4] Talidomid tedavisine başlamadan önce klinik ve nörolojik incelemeler yapılması ve tedavi sırasında rutin izlenmesi önemlidir. [K2]\n\nNöropatinin şiddetine göre tedavi ve doz yönetimi değişir: [K4]\n\n- **Derece 1 (parestezi, halsizlik ve/veya refleks kaybı):** Hastanın klinik inceleme ile izlenmesine devam edilir. [K4] [K4] Hastanın durumu kötüleşirse %50'ye kadar doz azaltılır. [K4]\n- **Derece 2 (fonksiyonların engellenip, günlük yaşam aktivitelerinin engellenmemesi):** Doz azaltılır veya tedavi kesilir ve hasta klinik ve nörolojik inceleme ile izlenmeye devam edilir. [K4] [K4] Hiçbir iyileşme yoksa veya nöropati ilerliyorsa, tedavi kesilmelidir. [K4] Eğer hasta nöropati semptomları Derece 1 veya daha iyiye giderse ve yarar/zarar oranı uygun ise, tedaviye tekrar başlanabilir. [K4]\n- **Derece 3 (günlük yaşam aktivitelerinin engellenmesi):** Tedavi kesilmeli. [K4]\n- **Derece 4 (sakat edici nöropati):** Tedavi kesilmeli. [K4]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q57",
+    "soru": "İsatuksimab infüzyon hızı nasıl artırılır?",
+    "arama_skoru": 0.651,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "İnfüzyon hızının artırılması, sadece infüzyon reaksiyonları söz konusu değilse düşünülmelidir. [K2]\n\nİnfüzyon hızı artırılırken, önceki infüzyonların sırasında İnfüzyon İndüktedik Reaksiyon (İRR) olmaması önemlidir. [K2] İlk iki infüzyonda ≥ 100 mL/saatlik nihai infüzyon hızında hiçbir İRR'nin meydana gelmemiş olması gerekmektedir. [K2] Aksi takdirde, 2. infüzyon için geçerli olan talimatlara uyulmalıdır. [K2]",
+    "saniye": 18.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.889,
+      "sem_hepsi": 0.573,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.3,
+      "sem_hepsi": 0.669,
+      "lek_atif": 0.3,
+      "sem_atif": 0.669
+     },
+     {
+      "lek_hepsi": 0.9,
+      "sem_hepsi": 0.624,
+      "lek_atif": 0.9,
+      "sem_atif": 0.624
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.527,
+      "lek_atif": 1.0,
+      "sem_atif": 0.527
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "İnfüzyon hızının artırılması, sadece infüzyon reaksiyonları söz konusu değilse düşünülmelidir. [K2]\n\nİnfüzyon hızı artırılırken, önceki infüzyonların sırasında İnfüzyon İndüktedik Reaksiyon (İRR) olmaması önemlidir. [K2] [K2] İlk iki infüzyonda ≥ 100 mL/saatlik nihai infüzyon hızında hiçbir İRR'nin meydana gelmemiş olması gerekmektedir. [K2] Aksi takdirde, 2. infüzyon için geçerli olan talimatlara uyulmalıdır. [K2]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q59",
+    "soru": "Selineksor kullanan hastada bulantı nasıl önlenir?",
+    "arama_skoru": 0.72,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Hastaların tedavi başlamadan önce ve tedavi süresince 5-HT3 antagonistik ve/veya diğer bulantı önleyici ilaçlarla profilaktik eşzamanlı tedavi sağlanmalıdır. [K1]\n\nBulantı 1. veya 2. derece olursa, selineksor tedavisine devam edilir ve ilave bulantı önleyici ilaçlar başlatılır. [K2]\n\n3. derece veya daha yüksek dereceli bulantıya (günde 5 veya daha az epizod) selineksor tedavisi ara verilir. [K2] Bulantının 2. dereceye veya daha düşük bir dereceye dönmesi veya başlangıç düzeyine ulaşması koşuluyla, selineksor 1 alt doz düzeyinde yeniden başlar. [K2]",
+    "saniye": 22.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.786,
+      "sem_hepsi": 0.687,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.75,
+      "sem_hepsi": 0.678,
+      "lek_atif": 0.417,
+      "sem_atif": 0.678
+     },
+     {
+      "lek_hepsi": 0.727,
+      "sem_hepsi": 0.711,
+      "lek_atif": 0.727,
+      "sem_atif": 0.711
+     },
+     {
+      "lek_hepsi": 0.643,
+      "sem_hepsi": 0.702,
+      "lek_atif": 0.643,
+      "sem_atif": 0.702
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Hastaların tedavi başlamadan önce ve tedavi süresince 5-HT3 antagonistik ve/veya diğer bulantı önleyici ilaçlarla profilaktik eşzamanlı tedavi sağlanmalıdır. [K1]\n\nBulantı 1. veya 2. derece olursa, selineksor tedavisine devam edilir ve ilave bulantı önleyici ilaçlar başlatılır. [K2]\n\n3. derece veya daha yüksek dereceli bulantıya (günde 5 veya daha az epizod) selineksor tedavisi ara verilir. [K2] [K2] Bulantının 2. dereceye veya daha düşük bir dereceye dönmesi veya başlangıç düzeyine ulaşması koşuluyla, selineksor 1 alt doz düzeyinde yeniden başlar. [K2]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q61",
+    "soru": "Siklofosfamid kullanırken mesane toksisitesi nasıl önlenir?",
+    "arama_skoru": 0.581,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Siklofosfamid kullanılırken mesane toksisitesi riskini azaltmak için alerjenik dosjalendirme ve siklofosfamid dozunun optimize edilmesi önerilir. [K1] Ayrıca, siklofosfamid tedavisinin sırasında ve sonrasında destreamantoterapi (destreamant) uygulanmalıdır. [K2] Destreamantoterapi, siklofosfamidin toksisitesini azaltmak için glisinamat ve alaninamat gibi amino asitlerin kullanılmasından oluşur. [K2]",
+    "saniye": 16.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.154,
+      "sem_hepsi": 0.589,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.25,
+      "sem_hepsi": 0.552,
+      "lek_atif": 0.25,
+      "sem_atif": 0.533
+     },
+     {
+      "lek_hepsi": 0.083,
+      "sem_hepsi": 0.524,
+      "lek_atif": 0.0,
+      "sem_atif": 0.524
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Siklofosfamid kullanılırken mesane toksisitesi riskini azaltmak için alerjenik dosjalendirme ve siklofosfamid dozunun optimize edilmesi önerilir. [K1] [K1] Ayrıca, siklofosfamid tedavisinin sırasında ve sonrasında destreamantoterapi (destreamant) uygulanmalıdır. [K2] Destreamantoterapi, siklofosfamidin toksisitesini azaltmak için glisinamat ve alaninamat gibi amino asitlerin kullanılmasından oluşur. [K2]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q63",
+    "soru": "Denosumab başlanmadan önce kalsiyum ve D vitamini verilmeli mi?",
+    "arama_skoru": 0.66,
+    "dayanaklilik": 0.5,
+    "atif_sayisi": 1,
+    "hedef_tuttu": true,
+    "cevap": "Kaynaklardan Denosumab'un kalsiyum ve D vitamini kullanımına dair doğrudan bilgi bulunamadı. [K1] Bu bilgi arsivde bulunamadi.",
+    "saniye": 8.3,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.222,
+      "sem_hepsi": 0.568,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.365,
+      "lek_atif": 0.0,
+      "sem_atif": 0.365
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Kaynaklardan Denosumab'un kalsiyum ve D vitamini kullanımına dair doğrudan bilgi bulunamadı. [K1] [K1] Bu bilgi arsivde bulunamadi.",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q65",
+    "soru": "Elranatamab basamaklı doz şeması nasıl uygulanır?",
+    "arama_skoru": 0.617,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 3,
+    "hedef_tuttu": false,
+    "cevap": "Elranatamab basamaklı doz şeması şu şekilde uygulanır: [K3]\n\n1. Başlangıç dozu 12 mg'dır ve ilk uygulama günü (Gün 1) subkutan yolla verilir. [K2]\n2. İkinci dozu 76 mg'dır ve ilk tam doz uygulaması 7 gün sonra (Gün 8) yapılır. [K2]\n3. Ardından, her iki haftada bir (14 günlük aralıklarla) 76 mg dozları uygulanır. [K4]\n\nNot: Haftada bir kez 76 mg'a kadar dozlar klinik çalışmalarda uygulanmıştır. [K3]",
+    "saniye": 19.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.333,
+      "sem_hepsi": 0.692,
+      "lek_atif": 0.083,
+      "sem_atif": 0.692
+     },
+     {
+      "lek_hepsi": 0.2,
+      "sem_hepsi": 0.641,
+      "lek_atif": 0.0,
+      "sem_atif": 0.522
+     },
+     {
+      "lek_hepsi": 0.167,
+      "sem_hepsi": 0.648,
+      "lek_atif": 0.0,
+      "sem_atif": 0.531
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.692,
+      "lek_atif": 0.333,
+      "sem_atif": 0.577
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.5,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Elranatamab basamaklı doz şeması şu şekilde uygulanır: [K3]\n\n1. Başlangıç dozu 12 mg'dır ve ilk uygulama günü (Gün 1) subkutan yolla verilir. [K2]\n2. İkinci dozu 76 mg'dır ve ilk tam doz uygulaması 7 gün sonra (Gün 8) yapılır. [K2]\n3. Ardından, her iki haftada bir (14 günlük aralıklarla) 76 mg dozları uygulanır. [K4]\n\nNot: Haftada bir kez 76 mg'a kadar dozlar klinik çalışmalarda uygulanmıştır. [K3]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q67",
+    "soru": "Venetoklaks miyelomda hangi hastalarda düşünülür?",
+    "arama_skoru": 0.662,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Venetoclax, özellikle t(11;14) tranzlokasyonu olan relaps olmuş veya rezistant miyelom hastalarında düşünülür. [K1] [K3]",
+    "saniye": 8.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.091,
+      "sem_hepsi": 0.723,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Venetoclax, özellikle t(11;14) tranzlokasyonu olan relaps olmuş veya rezistant miyelom hastalarında düşünülür. [K1] [K3]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q69",
+    "soru": "Lenalidomid kullanan hastada tromboz profilaksisi için hangi ilaç verilir?",
+    "arama_skoru": 0.727,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Hastanın durumu antikoagülasyon tedavisi ile stabil hale geldiğinde ve tromboembolik olay komplikasyonları kontrol altına alındığında, lenalidomid tedavisi risk yarar değerlendirmesine bağlı olarak orijinal dozda tekrar başlatılabilir. [K1] Hastanın, lenalidomid tedavisi sırasında antikoagülasyon tedavisine devam etmesi önerilmektedir. [K1] [K2]",
+    "saniye": 14.0,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.733,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.778,
+      "sem_hepsi": 0.677,
+      "lek_atif": 0.778,
+      "sem_atif": 0.677
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Hastanın durumu antikoagülasyon tedavisi ile stabil hale geldiğinde ve tromboembolik olay komplikasyonları kontrol altına alındığında, lenalidomid tedavisi risk yarar değerlendirmesine bağlı olarak orijinal dozda tekrar başlatılabilir. [K1] [K1] Hastanın, lenalidomid tedavisi sırasında antikoagülasyon tedavisine devam etmesi önerilmektedir. [K1] [K2]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q71",
+    "soru": "Lenalidomid SUT kapsamında hangi koşullarda ödenir?",
+    "arama_skoru": 0.627,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Lenalidomid SUT kapsamında aşağıdaki koşullarda ödenir: [K3]\n\n- Daha önce bortezomib ve immünomodülatör ilaç içeren en az bir seri tedaviyi uygun dozda ve yeterli sürede kullanmış olmasına rağmen yanıt alınamayan veya nüks gelişen multiple myelom hastalarında pomalidomid ile kombine olarak progresyona kadar kullanılması halinde [K1].\n- Üçüncü kür sonunda en az minör yanıt, altıncı kür sonunda ve devam eden her 4. kür sonunda ise en az kısmi yanıt olduğunun belirtildiği, hematoloji veya onkoloji uzman hekiminin yer aldığı, en fazla 3 ay süreli sağlık kurulu raporuna istinaden hematoloji veya onkoloji uzman hekimlerince reçete edilmesi halinde [K1].\n- Daha önceden bortezomib veya bortezomib içeren kombinasyonlarla tedavisi başarısız olan nüks veya dirençli mantle hücreli lenfoma tedavisinde, bu durumların belirtildiği hematoloji ve/veya onkoloji uzmanının yer aldığı 3 ay süreli sağlık kurulu raporuna dayanılarak yine bu hekimler tarafından reçete edilmesi halinde progresyon gelişene kadar [K3].\n\nLenalidomid, belirli tedavi senaryolarda ve belirli koşullar altında sağlık kurumları tarafından onaylandığında Kurumca bedeli karşılanır. [K1]",
+    "saniye": 39.2,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.886,
+      "sem_hepsi": 0.755,
+      "lek_atif": 0.886,
+      "sem_atif": 0.755
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.626,
+      "lek_atif": 0.962,
+      "sem_atif": 0.618
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.666,
+      "lek_atif": 0.514,
+      "sem_atif": 0.603
+     },
+     {
+      "lek_hepsi": 0.462,
+      "sem_hepsi": 0.687,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Lenalidomid SUT kapsamında aşağıdaki koşullarda ödenir: [K3]\n\n- Daha önce bortezomib ve immünomodülatör ilaç içeren en az bir seri tedaviyi uygun dozda ve yeterli sürede kullanmış olmasına rağmen yanıt alınamayan veya nüks gelişen multiple myelom hastalarında pomalidomid ile kombine olarak progresyona kadar kullanılması halinde [K1].\n- Üçüncü kür sonunda en az minör yanıt, altıncı kür sonunda ve devam eden her 4. kür sonunda ise en az kısmi yanıt olduğunun belirtildiği, hematoloji veya onkoloji uzman hekiminin yer aldığı, en fazla 3 ay süreli sağlık kurulu raporuna istinaden hematoloji veya onkoloji uzman hekimlerince reçete edilmesi halinde [K1].\n- Daha önceden bortezomib veya bortezomib içeren kombinasyonlarla tedavisi başarısız olan nüks veya dirençli mantle hücreli lenfoma tedavisinde, bu durumların belirtildiği hematoloji ve/veya onkoloji uzmanının yer aldığı 3 ay süreli sağlık kurulu raporuna dayanılarak yine bu hekimler tarafından reçete edilmesi halinde progresyon gelişene kadar [K3].\n\nLenalidomid, belirli tedavi senaryolarda ve belirli koşullar altında sağlık kurumları tarafından onaylandığında Kurumca bedeli karşılanır. [K1]",
+    "hedef_tuttu_onarim": true
+   },
+   {
+    "id": "Q73",
+    "soru": "Daratumumab hangi hasta grubunda geri ödeme kapsamında?",
+    "arama_skoru": 0.608,
+    "dayanaklilik": 0.833,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Daratumumab, yeni tanılan ve uygun olandan transplantasyon almayan hastalarda, bir önceki tedaviya karşı rezistant olan hastalarda ve geriye kalan tedavi seçenekleri az olan hastalarda geri ödemenin kapsamında olarak kabul edilir. [K2] Ayrıca, bortezomib ve lenalidomide rezistant hastalarda da tercih edilebilir. [K1]\n\nLenalidomide rezistant hastalarda, bortezomib ile uyumlu veya deneyimsiz hastalarda daratumumab/bortezomib/dexametason kombinasyonu terapisi tercih edilebilir. [K1]\n\nKötü durumlu hastalarda (önemli komorbiditeler veya 80 yaş ve üzerinde olan hastalarda), VMP (bortezomib, mesna, dexametazon) tedavisine daratumumab eklenmesi tercih edilebilir. [K2]\n\nRelaps etmiş veya rezistant hastalarda, daratumumab/lenalidomide/dexametason ve daratumumab/bortezomib/dexametason kombinasyonları tercih edilebilir. [K1]\n\nBu bilgi arsivde bulunamadi.",
+    "saniye": 32.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.087,
+      "sem_hepsi": 0.6,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.286,
+      "sem_hepsi": 0.604,
+      "lek_atif": 0.0,
+      "sem_atif": 0.564
+     },
+     {
+      "lek_hepsi": 0.231,
+      "sem_hepsi": 0.661,
+      "lek_atif": 0.231,
+      "sem_atif": 0.661
+     },
+     {
+      "lek_hepsi": 0.125,
+      "sem_hepsi": 0.69,
+      "lek_atif": 0.125,
+      "sem_atif": 0.631
+     },
+     {
+      "lek_hepsi": 0.25,
+      "sem_hepsi": 0.706,
+      "lek_atif": 0.083,
+      "sem_atif": 0.622
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.336,
+      "lek_atif": 0.0,
+      "sem_atif": 0.277
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 1.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Daratumumab, yeni tanılan ve uygun olandan transplantasyon almayan hastalarda, bir önceki tedaviya karşı rezistant olan hastalarda ve geriye kalan tedavi seçenekleri az olan hastalarda geri ödemenin kapsamında olarak kabul edilir. [K2] [K2] Ayrıca, bortezomib ve lenalidomide rezistant hastalarda da tercih edilebilir. [K1]\n\nLenalidomide rezistant hastalarda, bortezomib ile uyumlu veya deneyimsiz hastalarda daratumumab/bortezomib/dexametason kombinasyonu terapisi tercih edilebilir. [K1]\n\nKötü durumlu hastalarda (önemli komorbiditeler veya 80 yaş ve üzerinde olan hastalarda), VMP (bortezomib, mesna, dexametazon) tedavisine daratumumab eklenmesi tercih edilebilir. [K2]\n\nRelaps etmiş veya rezistant hastalarda, daratumumab/lenalidomide/dexametason ve daratumumab/bortezomib/dexametason kombinasyonları tercih edilebilir. [K1]\n\nBu bilgi arsivde bulunamadi.",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q75",
+    "soru": "Nakil sonrası idame tedavisi geri ödemede karşılanıyor mu?",
+    "arama_skoru": 0.633,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Nakil sonrası idame tedavisi için yol, gündelik ve refakatçi giderler ödenmektedir. [K1] İlk sevk belgesine istinaden tedavi devamı niteliğindeki diğer müracaatların yol, gündelik ve refakatçi giderleri karşılanmaktadır. [K4]",
+    "saniye": 10.1,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.333,
+      "sem_hepsi": 0.775,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.833,
+      "sem_hepsi": 0.817,
+      "lek_atif": 0.333,
+      "sem_atif": 0.69
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Nakil sonrası idame tedavisi için yol, gündelik ve refakatçi giderler ödenmektedir. [K1] [K1] İlk sevk belgesine istinaden tedavi devamı niteliğindeki diğer müracaatların yol, gündelik ve refakatçi giderleri karşılanmaktadır. [K4]",
+    "hedef_tuttu_onarim": false
+   },
+   {
+    "id": "Q77",
+    "soru": "Karfilzomib SUT'ta hangi koşullarda kullanılabilir?",
+    "arama_skoru": 0.635,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": true,
+    "cevap": "Karfilzomib SUT'ta aşağıdaki koşullarda kullanılabilir: [K1]\n\n1. Daha önce bortezomib ve immünomodülatör ilaç içeren en az bir seri tedaviyi uygun dozda ve yeterli sürede kullanmış olmasına rağmen yanıt alınamayan veya nüks gelişen multiple miyelom hastalarında lenalidomid ve/veya deksametazon ile kombine olarak progresyona kadar kullanılması halinde bedelleri Kurumca karşılanır. [K3]\n\n2. İksazomib, karfilzomib, daratumumab ve pomalidomid etken maddeli ilaçların özel hükümleri dışında birbirleri ile kombine olarak kullanılması halinde bedelleri Kurumca karşılanmaz. [K3] Ancak, karfilzomib tek başına veya uygun kombinasyonlarla (lenalidomid ve/veya deksametazon) tedavi amacıyla kullanılabilmektedir. [K3]",
+    "saniye": 26.8,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.895,
+      "sem_hepsi": 0.77,
+      "lek_atif": 0.158,
+      "sem_atif": 0.654
+     },
+     {
+      "lek_hepsi": 1.0,
+      "sem_hepsi": 0.733,
+      "lek_atif": 1.0,
+      "sem_atif": 0.733
+     },
+     {
+      "lek_hepsi": 0.455,
+      "sem_hepsi": 0.644,
+      "lek_atif": 0.455,
+      "sem_atif": 0.618
+     }
+    ],
+    "alan_varlik": true,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Karfilzomib SUT'ta aşağıdaki koşullarda kullanılabilir: [K1]\n\n1. Daha önce bortezomib ve immünomodülatör ilaç içeren en az bir seri tedaviyi uygun dozda ve yeterli sürede kullanmış olmasına rağmen yanıt alınamayan veya nüks gelişen multiple miyelom hastalarında lenalidomid ve/veya deksametazon ile kombine olarak progresyona kadar kullanılması halinde bedelleri Kurumca karşılanır. [K3]\n\n2. İksazomib, karfilzomib, daratumumab ve pomalidomid etken maddeli ilaçların özel hükümleri dışında birbirleri ile kombine olarak kullanılması halinde bedelleri Kurumca karşılanmaz. [K3] [K3] Ancak, karfilzomib tek başına veya uygun kombinasyonlarla (lenalidomid ve/veya deksametazon) tedavi amacıyla kullanılabilmektedir. [K3]",
+    "hedef_tuttu_onarim": true
+   }
+  ],
+  "negatif": [
+   {
+    "id": "N01",
+    "soru": "Akut apandisit ameliyatı sonrası antibiyotik profilaksisi nasıl verilir?",
+    "arama_skoru": 0.565,
+    "dayanaklilik": 0.0,
+    "atif_sayisi": 0,
+    "hedef_tuttu": false,
+    "cevap": "Bu bilgi arsivde bulunamadi.",
+    "saniye": 5.5,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.39,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Bu bilgi arsivde bulunamadi."
+   },
+   {
+    "id": "N03",
+    "soru": "Akut miyokard enfarktüsünde trombolitik tedavi endikasyonları nelerdir?",
+    "arama_skoru": 0.644,
+    "dayanaklilik": 1.0,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Akut miyokard enfarktüsünde trombolitik tedavi endikasyonları şunlardır: [K1]\n\n- Akut miyokard enfarktüsünün trombolitik tedavisinde [K1]\n- Hemodinamik instabilite ile birlikte olan akut masif akciğer embolisinin trombolitik tedavisinde veya [K3] \n- Akut iskemik inmenin trombolitik tedavisinde [K1]\n\nNot: Alteplaz erişkinlerde, trombolitik tedavi için belirtilen durumlarda bedelleri Kurumca karşılanır. [K1]",
+    "saniye": 18.3,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.778,
+      "sem_hepsi": 0.693,
+      "lek_atif": 0.778,
+      "sem_atif": 0.693
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Akut miyokard enfarktüsünde trombolitik tedavi endikasyonları şunlardır: [K1]\n\n- Akut miyokard enfarktüsünün trombolitik tedavisinde [K1]\n- Hemodinamik instabilite ile birlikte olan akut masif akciğer embolisinin trombolitik tedavisinde veya [K3] \n- Akut iskemik inmenin trombolitik tedavisinde [K1]\n\nNot: Alteplaz erişkinlerde, trombolitik tedavi için belirtilen durumlarda bedelleri Kurumca karşılanır. [K1]"
+   },
+   {
+    "id": "N05",
+    "soru": "Astım atağında salbutamol nasıl uygulanır?",
+    "arama_skoru": 0.596,
+    "dayanaklilik": 0.0,
+    "atif_sayisi": 0,
+    "hedef_tuttu": false,
+    "cevap": "Bu bilgi arsivde bulunamadi. Astım atağında salbutamol uygulanışı hakkında belirli bilgi mevcut değil.",
+    "saniye": 7.3,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.379,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.488,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 2
+    },
+    "cevap_onarilmis": "Bu bilgi arsivde bulunamadi. Astım atağında salbutamol uygulanışı hakkında belirli bilgi mevcut değil."
+   },
+   {
+    "id": "N07",
+    "soru": "Akut pankreatitte şiddet nasıl derecelendirilir?",
+    "arama_skoru": 0.555,
+    "dayanaklilik": 0.0,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "Akut pankreatit ne kadar şiddetliyse bile, soruda belirtilen kaynaklarda doğrudan akut pankreatit şiddet derecelendirme bilgisi bulunamadı. [K3]",
+    "saniye": 8.3,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.154,
+      "sem_hepsi": 0.491,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Akut pankreatit ne kadar şiddetliyse bile, soruda belirtilen kaynaklarda doğrudan akut pankreatit şiddet derecelendirme bilgisi bulunamadı. [K3]"
+   },
+   {
+    "id": "N09",
+    "soru": "Migren profilaksisinde propranolol dozu nedir?",
+    "arama_skoru": 0.583,
+    "dayanaklilik": 0.667,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Bu bilgi arsivde bulunamadi. Migren profilaksisinde propranolol dozları genellikle migren ilakinin özelliklerinde veya başka bir kaynarda belgelenir. [K1] Verilen kaynaklar migren profilaksisine veya propranolol dozlarına değinmemektedir. [K2]",
+    "saniye": 11.1,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.356,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.273,
+      "sem_hepsi": 0.595,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.125,
+      "sem_hepsi": 0.523,
+      "lek_atif": 0.125,
+      "sem_atif": 0.509
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.75,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Bu bilgi arsivde bulunamadi. Migren profilaksisinde propranolol dozları genellikle migren ilakinin özelliklerinde veya başka bir kaynarda belgelenir. [K1] [K1] Verilen kaynaklar migren profilaksisine veya propranolol dozlarına değinmemektedir. [K2]"
+   },
+   {
+    "id": "N11",
+    "soru": "Hipotiroidide levotiroksin dozu nasıl ayarlanır?",
+    "arama_skoru": 0.627,
+    "dayanaklilik": 0.667,
+    "atif_sayisi": 2,
+    "hedef_tuttu": false,
+    "cevap": "Tedaviye başlamadan önce tiroid fonksiyonunun kontrol edilmesi ve hipotiroidizm tedavisini sürdürmek önemlidir. [K2] Ancak belirtilen kaynakta levotiroksin dozu的具体调整方式未给出。因此，回答为： [K1]\n\nBu bilgi arsivde bulunamadi.",
+    "saniye": 9.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.545,
+      "sem_hepsi": 0.815,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.125,
+      "sem_hepsi": 0.549,
+      "lek_atif": 0.125,
+      "sem_atif": 0.549
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Tedaviye başlamadan önce tiroid fonksiyonunun kontrol edilmesi ve hipotiroidizm tedavisini sürdürmek önemlidir. [K2] [K2] Ancak belirtilen kaynakta levotiroksin dozu的具体调整方式未给出。因此，回答为： [K1]\n\nBu bilgi arsivde bulunamadi."
+   },
+   {
+    "id": "N13",
+    "soru": "Septik şokta sıvı resüsitasyonu nasıl yapılır?",
+    "arama_skoru": 0.537,
+    "dayanaklilik": 0.0,
+    "atif_sayisi": 0,
+    "hedef_tuttu": false,
+    "cevap": "Bu bilgi arsivde bulunamadi.",
+    "saniye": 4.4,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.388,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.0,
+    "atif_onarimi": {
+     "eklenen": 0,
+     "duzeltilen": 0,
+     "biraklan": 1
+    },
+    "cevap_onarilmis": "Bu bilgi arsivde bulunamadi."
+   },
+   {
+    "id": "N15",
+    "soru": "Romatoid artritte metotreksat başlangıç dozu nedir?",
+    "arama_skoru": 0.645,
+    "dayanaklilik": 0.5,
+    "atif_sayisi": 1,
+    "hedef_tuttu": false,
+    "cevap": "Kaynaklardaki bilgiye göre, romatoid artrit için methotrexat başlangıç dozu belirtilmemiş. [K2] Bu bilgi arsivde bulunamadi.",
+    "saniye": 8.7,
+    "cumle_skorlari": [
+     {
+      "lek_hepsi": 0.6,
+      "sem_hepsi": 0.595,
+      "lek_atif": 0.0,
+      "sem_atif": 0.0
+     },
+     {
+      "lek_hepsi": 0.0,
+      "sem_hepsi": 0.37,
+      "lek_atif": 0.0,
+      "sem_atif": 0.37
+     }
+    ],
+    "alan_varlik": false,
+    "alan_hast": 0.25,
+    "atif_onarimi": {
+     "eklenen": 1,
+     "duzeltilen": 0,
+     "biraklan": 0
+    },
+    "cevap_onarilmis": "Kaynaklardaki bilgiye göre, romatoid artrit için methotrexat başlangıç dozu belirtilmemiş. [K2] [K2] Bu bilgi arsivde bulunamadi."
+   }
+  ]
+ },
+ "ozet": {
+  "pozitif": 39,
+  "cevaplanan": 32,
+  "hedef_tutan": 22,
+  "atif_dogru": 28,
+  "haksiz_red": 7,
+  "ort_kanit": 0.931,
+  "negatif": 8,
+  "uydurma_gecti": 1,
+  "uydurma_idler": [
+   "N09"
+  ],
+  "atif_onarimsiz": 25,
+  "atif_onarimli": 25,
+  "ort_saniye": 18.5,
+  "bos_cevap": 0
+ }
+}

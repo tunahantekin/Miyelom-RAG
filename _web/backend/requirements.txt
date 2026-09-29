@@ -1,0 +1,14 @@
+# Web katmani. Olcum scriptleriyle ayni pipeline'i kullaniyor, ek bagimlilik az.
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.9
+python-dotenv>=1.0
+
+# Arama ve gomme - _scripts/pipeline.py bunlari kullaniyor
+qdrant-client>=1.12
+sentence-transformers>=3.2
+numpy>=1.26
+
+# NOT: torch, sentence-transformers ile birlikte geliyor. GPU'suz makinede CPU
+# surumu yeterli; dil modeli Ollama'da kosuyor, torch yalnizca gomme modeli
+# (BGE-M3) icin gerekli.

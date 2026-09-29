@@ -1,0 +1,3507 @@
+[
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__asco__banerjee-et-al-2026-treatment-of-multiple-myeloma-asco-living-guideline-version-2026-1-1.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__esmo__esmo.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__nccn__jnccn-article-e260001.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__nccn__myeloma.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 1
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: * For Other Recommended regimens and for regimens Useful in Certain Ci",
+    "satir": 1507
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__nci_pdq__NCI_PDQ_myeloma_HP_2026.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__pubmed_meta__PUBMED_META_dara_backbone_regimens.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 1,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "WARN",
+    "tur": "table_orphan_row",
+    "detay": "tek satirlik tablo parcasi",
+    "satir": 19
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__pubmed_meta__PUBMED_META_dara_quad_vs_triplet_2025.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__pubmed_meta__PUBMED_META_dara_transplant_ineligible_2025.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__pubmed_meta__PUBMED_META_daratumumab_efficacy_safety.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer1_clinical__pubmed_meta__PUBMED_META_quadruplet_TE_NDMM_2025.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_abecma_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_blenrep_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_carvykti_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_darzalex_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_elrexfio_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_empliciti_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_imnovid_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 3
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: * For patients > 75 years of age, see Special populations.",
+    "satir": 95
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See the leaflets that come with bortezomib and dexamethasone for fur",
+    "satir": 2076
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See the leaflet that comes with dexamethasone for further informatio",
+    "satir": 2121
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_kyprolis_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_lynozyfic_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_nexpovio_PI.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_en semasinda zorunlu bolum yok: 4.1 (1 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_ninlaro_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_pepaxti_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_revlimid_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_sarclisa_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_talvey_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_tecvayli_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__ema__EMA_velcade_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_ABECMA_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_CARVYKTI_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_DARZALEX_FASPRO_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_DARZALEX_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_ELREXFIO_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 1
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 2 for recommendations on restarting ELREXFIO after dose de",
+    "satir": 391
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_EMPLICITI_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_KYPROLIS_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 2
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 10 for dose level reductions.",
+    "satir": 378
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Clinical Studies (14.2).",
+    "satir": 790
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_LYNOZYFIC_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_NINLARO_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_POMALYST_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_REVLIMID_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 1
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For concomitant therapy doses, see Full Prescribing Information (2.1",
+    "satir": 59
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_SARCLISA_ESCENA_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 1
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See United States Prescribing Information (USPI) for information on ",
+    "satir": 1196
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_SARCLISA_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_TALVEY_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 5
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Full Prescribing Information for instructions on preparation and",
+    "satir": 25
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 and Table 4 for recommendations on restarting TALVEY aft",
+    "satir": 330
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 and Table 4 for recommendations on restarting TALVEY aft",
+    "satir": 377
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 and Table 4 for recommendations on restarting TALVEY aft",
+    "satir": 393
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 and Table 4 for recommendations on restarting TALVEY aft",
+    "satir": 424
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_TECVAYLI_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 5
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Full Prescribing Information for instructions on preparation and",
+    "satir": 35
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 for recommendations on restarting TECVAYLI after dose de",
+    "satir": 213
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 for recommendations on restarting TECVAYLI after dose de",
+    "satir": 370
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 for recommendations on restarting TECVAYLI after dose de",
+    "satir": 413
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Table 3 for recommendations on restarting TECVAYLI after dose de",
+    "satir": 441
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_THALOMID_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_VELCADE_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__labels__FDA_XPOVIO_PI.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 1
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Full Prescribing Information for dosage in patients with severe ",
+    "satir": 25
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__fda__orange_book__appendix_fda.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOMIB__BORCADE_3_5_MG_IV_SC_ENJEKSIYONLUK_ZELTI_HAZ_RLAMAK_IN_LIYOF_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOMIB__BORT_REL_1_MG_I_V_ENJEKS_YONLUK_ZELT_HAZIRLAMAK_N_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOMIB__BORT_REL_3_5_MG_IV_SC_ENJEKS_YONLUK_ZELT_HAZIRLAMAK_N_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOM_B__BORACTIB_3_5_MG_IV_SC_ENJEKSIYONLUK_ZELTI_IN_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOM_B__B_EM_B_3_5_MG_IV_SC_ENJEKS_YONLUK_ZELT_N_TOZ_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOM_B__VELCADE_3_5_MG_IV_SC_ENJEKS_YONLUK_ZELT_N_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__BORTEZOM_B__VELTEZO_3_5_MG_IV_SC_ENJEKS_YONLUK_ZELT_HAZIRLAMAK_N_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__DARATUMUMAB__DARZALEX_100_MG_5_ML_NF_ZYONLUK_ZELTI_HAZ_RLAMAK_IN_KONSANTR_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 7, 8 (2 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__DARATUMUMAB__DARZALEX_1800_MG_SC_ENJEKSIYONLUK_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__DARATUMUMAB__DARZALEX_400_MG_20_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 7, 8 (2 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__DENOSUMAB__PROL_A_60_MG_ML_SC_ENJEKSIYONLUK_ZELTI_EREN_KULLAN_MA_HAZ_R__KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__DENOSUMAB__XGEVA_120_MG_SC_ENJEKS_YONLUK_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ELRANATAMAB__ELREXFIO_44_MG_1_1_ML_ENJEKSIYONLUK_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ELRANATAMAB__ELREXFIO_76_MG_1_9_ML_ENJEKSIYONLUK_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__IKSAZOMIB_SITRAT__NINLARO_3_MG_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__IKSAZOMIB_SITRAT__NINLARO_4_MG_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__IKSAZOMIB__NINLARO_2_3_MG_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ISATUXIMAB__SARCLISA_100_MG_5_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ISATUXIMAB__SARCLISA_500_MG_25_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARFILZOMIB__KARFILIB_60_MG_I_V_ENJEKSIYONLUK_ZELTI_HAZ_RLAMAK_IN_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARFILZOMIB__KARZOM_60_MG_IV_NF_ZYONLUK_ZELTI_HAZ_RLAMAK_IN_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARFILZOMIB__KYPROL_S_10_MG_IV_INF_ZYONLUK_ZELTI_HAZ_RLAMAK_I_IN_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARFILZOMIB__KYPROL_S_30_MG_IV_INF_ZYONLUK_ZELTI_HAZ_RLAMAK_I_IN_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARF_LZOM_B__CAF_ZO_60_MG_I_V_ENJEKS_YONLUK_ZELT_HAZIRLAMAK_N_TOZ_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 (7 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARF_LZOM_B__KYPROLIS_60_MG_IV_ENJEKS_YONLUK_ZELT_N_TOZ_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__KARF_LZOM_B__KYPROL_S_60_MG_IV_ENJEKS_YONLUK_ZELT_N_TOZ_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__KOMPL_A_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__KOMPL_A_15_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__KOMPL_A_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__KOMPL_A_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENATU_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENATU_15_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENATU_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENATU_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENOM_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENOM_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__LENOM_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__PAUSED_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__PAUSED_15_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__PAUSED_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__PAUSED_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__RELIV_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__RELIV_15_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__RELIV_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__RELIV_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__REVLIMID_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__REVLIMID_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 2, 3, 4, 4.5, 4.8, 4.9, 5, 6, 6.1, 6.5, 7, 9, 10 (13 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__REVLIMID_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 2, 3, 4, 4.5, 4.8, 4.9, 5, 6, 6.1, 6.5, 7, 9, 10 (13 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__REVL_M_D_15_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__R_VEL_ME_20_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__R_VEL_ME_2_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENALIDOMID__R_VEL_ME_7_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENAL_DOM_D__R_VEL_ME_10_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENAL_DOM_D__R_VEL_ME_15_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENAL_DOM_D__R_VEL_ME_25_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__LENAL_DOM_D__R_VEL_ME_5_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__MELFALAN_H_DROKLOR_R__ERIOLAN_50_MG_ENJEKSIYONLUK_NF_ZYONLUK_ZELTI_IN_LIYOFILIZE_T_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 3, 4.7, 4.9, 5, 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 7, 8, 9, 10 (18 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__MELFALAN__ALKERAN_2_MG_FILM_TABLET_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 5, 5.1, 5.2, 5.3, 6, 6.2, 6.3, 6.4, 6.5, 6.6, 7, 8, 9, 10 (14 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMALIDOMID__POMAVID_1_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMALIDOMID__POMAVID_2_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMALIDOMID__POMAVID_3_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMALIDOMID__POMAVID_4_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D__POMALEM_1_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D__POMALEM_2_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D__POMALEM_3_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D__POMALEM_4_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D___MNOV_D_1_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D___MNOV_D_2_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D___MNOV_D_3_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__POMAL_DOM_D___MNOV_D_4_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__SELINEKSOR__NEXPOVIO_20_MG_FILM_KAPLI_TABLET_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__TALIDOMIDE__THALIDOMIDE_BMS_50_MG_SERT_KAPS_L_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__ACLASTA_5_MG_100_ML_IV_NF_ZYON_ZELTISI_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__BONZOLEN_4_MG_5_ML_I_V_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN__KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__KALIKSIR_4MG_5ML_I_V_NF_ZYONLUK_KONSANTRE_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__LUSIMA_5MG_100ML_IV_NF_ZYON_ZELTISI_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__OSTEOZOLEN_4_MG_5_ML_I_V_NFUZYON_IN_KONSANTRE_ZELTI_EREN_FLA_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 2, 3, 4, 4.8, 5, 6, 7, 9, 10 (9 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__ZOLCURE_5_MG_100_ML_V_INF_ZYONLUK_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__ZOLDR_A_4MG_5ML_IV_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__ZOLON_K_4_MG_5_ML_I_V_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 10 (1 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOHIDRAT__ZORONIC_4MG_5ML_IV_NF_ZYON_IN_KONSANTRE_ZELTI_EREN_FLAKON__KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 4.9, 5, 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 7, 8, 9, 10 (16 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_MONOH_DRAT__OSTEZOLEN_4MG_5ML_IV_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT_SUSUZ_ZOLEDRON__ATAZOL_4_MG_5_ML_IV_NF_ZYONLUK_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__ACLASTA_5MG_100_ML_NF_ZYON_ZELTISI_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__BONEDRO_4MG_5ML_V_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN_FLAKO_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__CEM_X_5G_100ML_IV_NF_ZYONLUK_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__RON_DRO_5_MG_100_ML_I_V_INF_ZYON_ZELTISI_I_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__VERTEBZOL_5_MG_100_ML_I_V_NF_ZYONLUK_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 3, 4, 4.9 (3 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__ZOLEGEN_4_MG_5_ML_I_V_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN_F_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__ZOLENAT_IV_4MG_5_ML_INF_ZYON_I_IN_KONSANTRE_ZELTI_I_EREN_FLA_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__ZOLTONAR_5_MG_100_ML_V_INF_ZYON_ZELTISI_I_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRONIK_ASIT__ZOMEBON_4MG_5ML_INF_ZYON_I_IN_KONSANTRE_ZELTI_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__BONDREX_4MG_5_ML_IV_NF_ZYON_N_KONSANTRE_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__LAN_CZOL_5_MG_100_ML_IV_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__OSS_4_MG_5_ML_I_V_KONSANTRE_NF_ZYONLUK_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__PLAZOL_4_MG_5_ML_I_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 4.5, 4.6, 4.7, 4.8, 4.9, 5, 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 7, 8, 9, 10 (20 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__RON_X_4_MG_5_ML_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__ZOLESTO_5_MG_100_ML_IV_NF_ZYONLUK_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 3, 4.9 (2 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__ZOLKA_5MG_100ML_I_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__ZOLOPOROZ_5MG_100ML_V_NF_ZYON_N_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T_MONOH_DRAT__ZOLTASTA_4MG_5ML_I_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 4.7, 4.8, 4.9, 5, 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 7, 8, 9, 10 (18 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T__ACLABON_5MG_100ML_NF_ZYON_ZELT_S_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 4.9, 5, 5.1, 5.2, 5.3, 6, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 7, 8, 9, 10 (16 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T__MULTIFLEX_ACLAVER_5_MG_100_ML_IV_NF_ZYONLUK_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 5 (1 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T__XENDRO_5_MG_100_ML_IV_NF_ZYON_N_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T__ZOD_NAS_L_5_MG_100_ML_V_NF_ZYONLUK_ZELT__KUB.md",
+  "ozet": {
+   "ERROR": 1,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "eksik_bolum",
+    "detay": "eu_smpc_tr semasinda zorunlu bolum yok: 4.9 (1 bolum)",
+    "satir": null
+   }
+  ]
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__ZOLEDRON_K_AS_T__ZOLTASTA_4MG_5ML_I_V_NF_ZYON_N_KONSANTRE_ZELT_EREN_FLAKON_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__Zoledronik_Asit_Monohidrat__Metarzu_4_mg_5_ml_V_nf_zyon_in_Konsantre_zelti_eren_Flakon_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer2_regulatory__titck__kub__Zoledronik_asit_monohidrat__Xolarex_5_mg_100_ml_IV_nf_zyonluk_zelti_KUB.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": true,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer3_reimbursement__ek4__EK-4-D.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer3_reimbursement__ek4__EK-4-E.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer3_reimbursement__ek4__EK-4-F.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer3_reimbursement__ek4__EK-4-G.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": false,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "_work\\enriched\\layer3_reimbursement__sut__SUT.md",
+  "ozet": {
+   "ERROR": 0,
+   "WARN": 0,
+   "REVIEW": 0
+  },
+  "kapsam": {
+   "dipnot": false,
+   "atif": false,
+   "tablo": true,
+   "hiyerarsi": false,
+   "bolum": false,
+   "hacim": true
+  },
+  "bulgular": []
+ },
+ {
+  "dosya": "layer1_clinical\\nccn\\nccn_myeloma_manual.md",
+  "ozet": {
+   "ERROR": 12,
+   "WARN": 43,
+   "REVIEW": 32
+  },
+  "kapsam": {
+   "dipnot": true,
+   "atif": true,
+   "tablo": true,
+   "hiyerarsi": true,
+   "bolum": false,
+   "hacim": false
+  },
+  "bulgular": [
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^h] metinde 2 kez kullanilmis, tanimi yok",
+    "satir": 67
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^i] metinde 4 kez kullanilmis, tanimi yok",
+    "satir": 71
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^i] metinde 1 kez kullanilmis, tanimi yok",
+    "satir": 96
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: d -> j (eksik: efghi)",
+    "satir": 119
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^b] metinde 1 kez kullanilmis, tanimi yok",
+    "satir": 150
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: d -> i (eksik: efgh)",
+    "satir": 160
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: i -> q (eksik: jklmnop)",
+    "satir": 162
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: d -> i (eksik: efgh)",
+    "satir": 202
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: i -> q (eksik: jklmnop)",
+    "satir": 203
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: q -> v (eksik: rstu)",
+    "satir": 204
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: q -> w (eksik: rstuv)",
+    "satir": 232
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: x -> z (eksik: y)",
+    "satir": 235
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: q -> w (eksik: rstuv)",
+    "satir": 262
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^1] metinde 1 kez kullanilmis, tanimi yok",
+    "satir": 346
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^2] metinde 1 kez kullanilmis, tanimi yok",
+    "satir": 346
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^3] metinde 1 kez kullanilmis, tanimi yok",
+    "satir": 346
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: e -> i (eksik: fgh)",
+    "satir": 665
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: d -> l (eksik: efghijk)",
+    "satir": 724
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: d -> l (eksik: efghijk)",
+    "satir": 793
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: d -> l (eksik: efghijk)",
+    "satir": 836
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "footnote_gap",
+    "detay": "dipnot harf dizisinde bosluk: o -> q (eksik: p)",
+    "satir": 840
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^a] metinde 2 kez kullanilmis, tanimi yok",
+    "satir": 983
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "missing_footnote",
+    "detay": "[^a] metinde 1 kez kullanilmis, tanimi yok",
+    "satir": 1270
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "broken_link",
+    "detay": "'SP-1' -> #sp-1 : boyle bir bolum yok",
+    "satir": 10
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "broken_link",
+    "detay": "'MGCS-1' -> #mgcs-1 : boyle bir bolum yok",
+    "satir": 29
+   },
+   {
+    "seviye": "WARN",
+    "tur": "unreachable_section",
+    "detay": "'abbr-2' bolumune hicbir yerden bag yok",
+    "satir": null
+   },
+   {
+    "seviye": "WARN",
+    "tur": "unreachable_section",
+    "detay": "'cat-1' bolumune hicbir yerden bag yok",
+    "satir": null
+   },
+   {
+    "seviye": "WARN",
+    "tur": "unreachable_section",
+    "detay": "'multiple-myeloma' bolumune hicbir yerden bag yok",
+    "satir": null
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 4 hucre, baslikta 3",
+    "satir": 454
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 4 hucre, baslikta 3",
+    "satir": 455
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 4 hucre, baslikta 3",
+    "satir": 456
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 4 hucre, baslikta 3",
+    "satir": 457
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 1 hucre, baslikta 2",
+    "satir": 480
+   },
+   {
+    "seviye": "ERROR",
+    "tur": "table_no_separator",
+    "detay": "tablo basligindan sonra ayrac satiri yok",
+    "satir": 488
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 682
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 683
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 684
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 685
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 686
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 687
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 688
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 689
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 690
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 691
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 692
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 693
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 694
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 695
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 696
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 697
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 698
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 699
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 700
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 701
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 702
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 703
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 704
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 705
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 706
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 707
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 3 hucre, baslikta 1",
+    "satir": 708
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 997
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 999
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 1000
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 1001
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 1002
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 1003
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 1004
+   },
+   {
+    "seviye": "WARN",
+    "tur": "table_column_mismatch",
+    "detay": "satirda 2 hucre, baslikta 5",
+    "satir": 1005
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See NCCN Guidelines for Survivorship",
+    "satir": 112
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See NCCN Guidelines for Survivorship",
+    "satir": 153
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See NCCN Guidelines for Survivorship",
+    "satir": 192
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For principles of RT for CNS disease in patients with MM, see Princi",
+    "satir": 431
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For RT dose constraint suggestions regarding bone marrow and other O",
+    "satir": 442
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See NCCN Guidelines for Management of Immunotherapy-Related Toxiciti",
+    "satir": 574
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See NCCN Guidelines for Hematopoietic Growth Factors.",
+    "satir": 935
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See NCCN Guidelines for Prevention and Treatment of Cancer-Related I",
+    "satir": 940
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See CDC for Use of COVID-19 Vaccines in the US.",
+    "satir": 941
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For prophylaxis and management of infections in patients with multip",
+    "satir": 942
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Management of Renal Disease in Multiple Myeloma ([MYEL-L](#myel-",
+    "satir": 946
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For management of VTE, risk stratification, and VTE prophylaxis, see",
+    "satir": 950
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Response Criteria for Multiple Myeloma (MYEL-E)",
+    "satir": 1116
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - See Myeloma Therapy (MYEL-G)",
+    "satir": 1117
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For management, see [MGRS-2](#mgrs-2)",
+    "satir": 1195
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For lymphoplasmacytic-related MGRS, see NCCN Guidelines for Waldenst",
+    "satir": 1202
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For any MGRS with monoclonal B-cell lymphocytosis (MBL) features, se",
+    "satir": 1203
+   },
+   {
+    "seviye": "REVIEW",
+    "tur": "orphan_branch_node",
+    "detay": "dal dugumu en ust seviyede, ebeveyn kategori yok: - For criteria for diagnosis, see [POEMS-3](#poems-3)",
+    "satir": 1356
+   }
+  ]
+ }
+]

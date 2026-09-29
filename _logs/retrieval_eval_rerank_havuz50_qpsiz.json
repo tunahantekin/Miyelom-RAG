@@ -1,0 +1,239 @@
+{
+ "ozet": {
+  "rerank": {
+   "recall_5": 0.75,
+   "recall_10": 0.9,
+   "mrr": 0.7476190476190476,
+   "kacan": 2,
+   "saniye": 80.4
+  }
+ },
+ "altkume": false,
+ "kume_boyut": 14532,
+ "model": "BAAI/bge-m3",
+ "cozulmeyen": [],
+ "sonuc": {
+  "rerank": [
+   {
+    "id": "Q01",
+    "soru": "Yeni tanı multipl miyelom hastasında başlangıç tanı incelemesinde hangi testler istenmeli?",
+    "ilk_dogru_sira": 1,
+    "aday": 34,
+    "getirilen": [
+     "nccn_myeloma_manual / MYEL-1",
+     "myeloma / **NCCN",
+     "myeloma / **NCCN"
+    ]
+   },
+   {
+    "id": "Q02",
+    "soru": "Multipl miyelomda FISH panelinde hangi sitogenetik anormallikler araştırılmalı?",
+    "ilk_dogru_sira": 1,
+    "aday": 23,
+    "getirilen": [
+     "myeloma / **NCCN",
+     "NINLARO_4_MG_KAPS_L_KUB / 5.1",
+     "NINLARO_3_MG_KAPS_L_KUB / 5.1"
+    ]
+   },
+   {
+    "id": "Q03",
+    "soru": "Nakil adayı olan yeni tanı hastada birincil tedavi olarak hangi rejimler öneriliyor?",
+    "ilk_dogru_sira": 1,
+    "aday": 770,
+    "getirilen": [
+     "jnccn-article-e260001 / Other",
+     "jnccn-article-e260001 / Preferred",
+     "RELIV_10_MG_SERT_KAPS_L_KUB / _Yeni"
+    ]
+   },
+   {
+    "id": "Q04",
+    "soru": "Stringent complete response tanımı nedir, tam yanıttan farkı nedir?",
+    "ilk_dogru_sira": 1,
+    "aday": 88,
+    "getirilen": [
+     "FDA_XPOVIO_PI / **Table",
+     "FDA_KYPROLIS_PI / 14",
+     "EMA_pepaxti_PI / 5.1"
+    ]
+   },
+   {
+    "id": "Q05",
+    "soru": "Kemik hastalığı olan miyelom hastasında bisfosfonat mı denosumab mı tercih edilmeli?",
+    "ilk_dogru_sira": 1,
+    "aday": 20,
+    "getirilen": [
+     "myeloma / **NCCN",
+     "NCI_PDQ_myeloma_HP_2026 / **_Denosumab",
+     "nccn_myeloma_manual / MYEL-I"
+    ]
+   },
+   {
+    "id": "Q06",
+    "soru": "Miyelom hastasında venöz tromboemboli profilaksisi nasıl yapılır, risk sınıflaması nedir?",
+    "ilk_dogru_sira": 6,
+    "aday": 76,
+    "getirilen": [
+     "LENOM_5_MG_SERT_KAPS_L_KUB / 4.4",
+     "KOMPL_A_5_MG_SERT_KAPS_L_KUB / 4.4",
+     "KOMPL_A_10_MG_SERT_KAPS_L_KUB / 4.4"
+    ]
+   },
+   {
+    "id": "Q07",
+    "soru": "Böbrek yetmezliği olan miyelom hastasında tedavi nasıl yönetilir?",
+    "ilk_dogru_sira": null,
+    "aday": 503,
+    "getirilen": [
+     "R_VEL_ME_10_MG_SERT_KAPS_L_KUB / 4.2",
+     "R_VEL_ME_25_MG_SERT_KAPS_L_KUB / 4.2",
+     "LENOM_10_MG_SERT_KAPS_L_KUB / _Trombositopeni_"
+    ]
+   },
+   {
+    "id": "Q08",
+    "soru": "Miyelom hastasında enfeksiyon profilaksisi ve aşılama nasıl planlanır?",
+    "ilk_dogru_sira": 7,
+    "aday": 79,
+    "getirilen": [
+     "RELIV_5_MG_SERT_KAPS_L_KUB / _Nötropeninin",
+     "RELIV_10_MG_SERT_KAPS_L_KUB / _Nötropeninin",
+     "RELIV_15_MG_SERT_KAPS_L_KUB / _Nötropeninin"
+    ]
+   },
+   {
+    "id": "Q09",
+    "soru": "Soliter plazmasitom tanısı nasıl konur ve nasıl tedavi edilir?",
+    "ilk_dogru_sira": 1,
+    "aday": 34,
+    "getirilen": [
+     "nccn_myeloma_manual / MYEL-D",
+     "NCI_PDQ_myeloma_HP_2026 / **_Current",
+     "myeloma / **NCCN"
+    ]
+   },
+   {
+    "id": "Q10",
+    "soru": "MGUS takibi hangi sıklıkla yapılmalı?",
+    "ilk_dogru_sira": 2,
+    "aday": 8,
+    "getirilen": [
+     "jnccn-article-e260001 / Free",
+     "NCI_PDQ_myeloma_HP_2026 / **Treatment",
+     "NCI_PDQ_myeloma_HP_2026 / **_Monoclonal"
+    ]
+   },
+   {
+    "id": "Q11",
+    "soru": "Bortezomib subkutan uygulamada doz ve uygulama sıklığı nedir?",
+    "ilk_dogru_sira": 1,
+    "aday": 407,
+    "getirilen": [
+     "KOMPL_A_15_MG_SERT_KAPS_L_KUB / 4.2",
+     "KOMPL_A_10_MG_SERT_KAPS_L_KUB / 4.2",
+     "KOMPL_A_5_MG_SERT_KAPS_L_KUB / 4.2"
+    ]
+   },
+   {
+    "id": "Q12",
+    "soru": "Bortezomib kaynaklı periferik nöropatide doz nasıl azaltılır?",
+    "ilk_dogru_sira": 7,
+    "aday": 300,
+    "getirilen": [
+     "_MNOV_D_4_MG_SERT_KAPS_L_KUB / 4.2",
+     "_MNOV_D_2_MG_SERT_KAPS_L_KUB / 4.2",
+     "POMALEM_1_MG_SERT_KAPS_L_KUB / 4.2"
+    ]
+   },
+   {
+    "id": "Q13",
+    "soru": "Lenalidomid böbrek fonksiyon bozukluğunda doz ayarlaması nasıl yapılır?",
+    "ilk_dogru_sira": 1,
+    "aday": 1318,
+    "getirilen": [
+     "RELIV_10_MG_SERT_KAPS_L_KUB / <u>Böbrek",
+     "RELIV_5_MG_SERT_KAPS_L_KUB / <u>Böbrek",
+     "RELIV_25_MG_SERT_KAPS_L_KUB / <u>Böbrek"
+    ]
+   },
+   {
+    "id": "Q14",
+    "soru": "Lenalidomid gebelikte kullanılabilir mi, gebelik önleme programı nedir?",
+    "ilk_dogru_sira": 1,
+    "aday": 286,
+    "getirilen": [
+     "KOMPL_A_10_MG_SERT_KAPS_L_KUB / 4.6",
+     "KOMPL_A_25_MG_SERT_KAPS_L_KUB / 4.6",
+     "KOMPL_A_15_MG_SERT_KAPS_L_KUB / 4.6"
+    ]
+   },
+   {
+    "id": "Q15",
+    "soru": "Daratumumab infüzyon ilişkili reaksiyonlarda premedikasyon nasıl verilir?",
+    "ilk_dogru_sira": 1,
+    "aday": 54,
+    "getirilen": [
+     "DARZALEX_100_MG_5_ML_NF_ZYONLUK_ZELTI_HAZ_RLAMAK_IN_KONSANTR_KUB / 4.4",
+     "DARZALEX_400_MG_20_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB / 4.4",
+     "DARZALEX_400_MG_20_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB / 4.2"
+    ]
+   },
+   {
+    "id": "Q16",
+    "soru": "Daratumumab kan grubu tayinini ve indirekt Coombs testini etkiler mi?",
+    "ilk_dogru_sira": 1,
+    "aday": 26,
+    "getirilen": [
+     "DARZALEX_400_MG_20_ML_NF_ZYONLUK_ZELT_HAZIRLAMAK_N_KONSANTRE_KUB / 4.4",
+     "DARZALEX_100_MG_5_ML_NF_ZYONLUK_ZELTI_HAZ_RLAMAK_IN_KONSANTR_KUB / 4.4",
+     "DARZALEX_1800_MG_SC_ENJEKSIYONLUK_ZELTI_KUB / 4.4"
+    ]
+   },
+   {
+    "id": "Q17",
+    "soru": "Karfilzomib kardiyak toksisite açısından hangi uyarıları taşıyor?",
+    "ilk_dogru_sira": 1,
+    "aday": 129,
+    "getirilen": [
+     "KARFILIB_60_MG_I_V_ENJEKSIYONLUK_ZELTI_HAZ_RLAMAK_IN_TOZ_KUB / 4.4",
+     "KARZOM_60_MG_IV_NF_ZYONLUK_ZELTI_HAZ_RLAMAK_IN_TOZ_KUB / 4.4",
+     "CAF_ZO_60_MG_I_V_ENJEKS_YONLUK_ZELT_HAZIRLAMAK_N_TOZ_KUB / 4.2"
+    ]
+   },
+   {
+    "id": "Q18",
+    "soru": "Teklistamab tedavisinde sitokin salınım sendromu için basamaklı doz şeması nedir?",
+    "ilk_dogru_sira": null,
+    "aday": 23,
+    "getirilen": [
+     "ELREXFIO_76_MG_1_9_ML_ENJEKSIYONLUK_ZELTI_KUB / 4.3",
+     "ELREXFIO_44_MG_1_1_ML_ENJEKSIYONLUK_ZELTI_KUB / 4.3",
+     "ELREXFIO_76_MG_1_9_ML_ENJEKSIYONLUK_ZELTI_KUB / 4.2"
+    ]
+   },
+   {
+    "id": "Q19",
+    "soru": "Multipl miyelomda ilaç geri ödemesi için hangi rapor ve koşullar aranıyor?",
+    "ilk_dogru_sira": 1,
+    "aday": 1005,
+    "getirilen": [
+     "VELCADE_3_5_MG_IV_SC_ENJEKS_YONLUK_ZELT_N_TOZ_KUB / 4.8",
+     "BORT_REL_3_5_MG_IV_SC_ENJEKS_YONLUK_ZELT_HAZIRLAMAK_N_TOZ_KUB / 5.1",
+     "myeloma / **NCCN"
+    ]
+   },
+   {
+    "id": "Q20",
+    "soru": "Otolog kök hücre nakli sonrası idame tedavisi olarak lenalidomid ne kadar süre verilir?",
+    "ilk_dogru_sira": 1,
+    "aday": 588,
+    "getirilen": [
+     "RELIV_5_MG_SERT_KAPS_L_KUB / _Otolog",
+     "RELIV_10_MG_SERT_KAPS_L_KUB / _Otolog",
+     "RELIV_25_MG_SERT_KAPS_L_KUB / _Otolog"
+    ]
+   }
+  ]
+ }
+}
